@@ -38,7 +38,7 @@ Under Part 107, operations can occur with only a PIC. If no additional personnel
 
 **NOTE: The greater the number of environmental variables (bystanders, structures, trees, wind, etc.) in an operating environment, the more substantial the demands are on the PIC.**
 
-##Ethics and Privacy
+## Ethics and Privacy
 
 UAS enable individuals to remotely access spaces and vantage points that may, for many reasons, be otherwise out of reach. Avoid actions in the air that you yourself would not engage in on the ground. 
 
