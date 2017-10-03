@@ -48,6 +48,7 @@ ______|_________________|_______________|_______________________|_____________|_
 ______|_________________|_______________|_______________________|_____________|___________|_____________|_____________________|
 
 <div style="page-break-after: always;"></div>
+
 #### Battery Log for Battery ID:  ______________________
 
 Date|UAS Make/Model|UAS Reg. Number|Remaining Battery Percentage (X)|Total Flight Time (T)|Battery Depletion Rate in Percentage Per Minute ((100-X)/T=R)|Battery Puffing?|Usage Conditions
