@@ -62,7 +62,7 @@ Also, consider referring to the [National Press Photographers Association Code o
 
 A professional UAS operation is one that involves careful planning and forethought. Before embarking on using drones to do journalism, pilots and organizations should take several steps. First and foremost, the pilot should practice with the drone to be used. Your first flight with the drone should not be for a story. Familiarization with the platform is essential. News organizations wanting to use drones should speak with local police and fire departments well before news breaks, alerting them of future news-gathering using drones.
 
-The general operating procedures for drone flights are divided into sections: Pre-trip, Pre-flight, Flight, and Post-flight. The general requirements in each are encapsulated in checklists designed to help ensure each step is accomplished. The sections, and the reasoning behind them, are described here:
+The general operating procedures for drone flights are divided into sections: Pre-trip, Pre-flight, Flight, Post-flight and Post-trip. The general requirements in each are encapsulated in checklists designed to help ensure each step is accomplished. The sections, and the reasoning behind them, are described here:
 
 ### Pre-Trip
 
@@ -151,7 +151,23 @@ At battery changes, and at battery changes only, should the PIC, Observer, Photo
 
 ## Post-Flight
 
-The post-flight checklist is broken into three parts: Shutting down the drone, which is done by the PIC; inspecting the aircraft; and filling out logs. Logging is an important part of aviation safety and will serve as an important document in maintenance of your UAS.
+The post-flight checklist is broken into three parts: Shutting down the drone, which is done by the PIC; inspecting the aircraft; and collecting information to enter into the logs. Logging is an important part of aviation safety and will serve as an important document in maintenance of your UAS.
+
+## Post-Trip
+
+The post-trip checklist is also broken into three parts.
+
+#### Logging and equipment checklist
+
+Logging flight and battery information is essential to spotting problems with the drone on the ground rather than having them happen in the air. This section also includes collecting data from the memory card and camera maintenance.
+
+#### Equipment condition checklist
+
+This section is a status check for all equipment used, to determine whether it's in good shape, may require extra attention, or needs repair or replacement.
+
+#### Mission summary
+
+This section serves as a short summary of the mission, with space to note any adverse conditions or incidents.
 
 ## Logging
 
