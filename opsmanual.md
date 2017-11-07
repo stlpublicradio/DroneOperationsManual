@@ -86,9 +86,40 @@ If a UAS has dual-operator capability, the Photojournalist operating the camera 
 
 A professional UAS operation is one that involves careful planning and forethought. Before embarking on using drones to do journalism, pilots and organizations should take several steps. First and foremost, the pilot should practice with the drone to be used. Your first flight with the drone should not be for a story. Familiarization with the platform is essential. News organizations wanting to use drones should speak with local police and fire departments well before news breaks, alerting them of future news-gathering using drones.
 
-The general operating procedures for drone flights are divided into sections: Pre-trip, Pre-flight, Flight, Post-flight and Post-trip. The general requirements in each are encapsulated in checklists designed to help ensure each step is accomplished. The sections, and the reasoning behind them, are described here:
+The general operating procedures for drone flights are divided into sections: 
 
-### Pre-Trip
+* Story Planning — What is the story and why are we using the drone to cover it?
+* Flight Planning — What conditions might we encounter during the flight?
+* Pre-trip — Is all equipment prepared for the flight? All crew properly briefed?
+* Pre-flight — Is the location as expected? Is the equipment operating properly?
+* Flight
+* Post-flight — Did the equipment perform as expected?
+* Post-trip — Was the mission completed as expected? Does any equipment need to be checked, repaired or replaced? Complete logs.
+* Post-Story — Was the story as expected? Did the use of the UAS serve its intended purpose? Was it worth the investment?
+
+The general requirements in each are encapsulated in checklists designed to help ensure each step is accomplished.
+
+Aside from "Flight", each section has a sheet that must be filled out and kept in the UAS Logbook.
+
+The sections, and the reasoning behind them, are described here:
+
+## Story Planning
+
+Before bringing a UAS into an environment, operational personnel should define the goals of the UAS flight before doing more specific mission planning.
+
+First, the basics: Date and time to fly, and whether those are flexible; the location; and the end product being sought through the use of the drone (photos, video, other).
+
+Then, consider:
+
+* What's the story we're aiming to cover?
+* What purpose is the drone serving in your story?
+* What context is the drone adding to your story?
+* Be specific. What shots do you need? 
+* How much drone video or photography do you need to tell the story?
+* What privacy issues can you anticipate and what steps have you taken to mitigate them?
+* What ethical issues can you anticipate and what steps have you taken to mitigate them?
+
+## Flight Planning
 
 Prior to embarking on any drone operation, the pilot in command must gather information about the proposed flight area to ensure safe operations that comply with Federal Aviation Regulations. 
 
@@ -96,39 +127,52 @@ Prior to embarking on any drone operation, the pilot in command must gather info
 
 Questions the PIC must answer about the location are:
 
-* What is there? Are there hazards to aviation?   
+* What is the exact location?
+* What's the altitude of the location? How might it affect your UAS and payload during flight?
+* Have you reviewed aviation aviation charts of the location and surroundings?
 * What airspace is it in? 
-* Do you need permission from air traffic control (ATC)?
+* Are there any airspace/TFR/NOTAM restrictions in place or anticipated?
+* Do you need permission from air traffic control (ATC) or an FAA waiver?
+* Have you pulled publicly available aerial images of the area or conducted a site survey?
 * Are you flying on or over private property? Do you have permission of the landowner to operate there?
+* What is there? Are there hazards to aviation?   
 * How many people can you expect around the area?
 * What is your plan to prevent flight over people?
-* Have you pulled publicly available aerial images of the area or conducted a site survey?
 * What will the weather be? Have you consulted an aviation weather forecast? Or if the trip is immediate, have you consulted local weather sources, such as an aviation weather report (METAR), or obtained a flight briefing from Flight Services?
 * Are your weather parameters within Part 107 minimums? 
 * Are wind levels below the operational maximums set by the manufacturer or by your own operational guidelines?
-* What's the altitude of the location? How might it affect your UAS and payload during flight?
 * Have you factored in the effects of temperature on the batteries? 
 
-#### Defining Operational Goals
+### Pre-Trip Checklist
 
-Before bringing a UAS into an environment, operational personnel should define the goals of the UAS flight before leaving for the location.
+Immediately before leaving, the PIC should complete the pre-trip checklist. This includes basic information, a drone check, info check, packing list and briefing.
 
-* Be specific. What shots do you need? 
-* What purpose is the drone serving in your story?
-* What context is the drone adding to your story?
-* How much drone video or photography do you need to tell the story?
-* What privacy issues can you anticipate and what steps have you taken to mitigate them?
-* What ethical issues can you anticipate and what steps have you taken to mitigate them? 
+#### Basic information
 
-#### Logistics
-
-Before leaving for the operational area, consider what equipment you will need, and check the status of your equipment.
-
+* Who is serving on the flight crew for this mission?
 * When do you need to be at the location?
 * How much travel time is involved?
-* Have you built in time for a walkthrough of the location to note any hazards only visible on site?
-* Do you have sufficient batteries to accomplish the task?
-* Are they charged?
+
+#### Drone check
+
+Before leaving for the operations area, the PIC should conduct a pre-trip inspection of the UAS and other equipment. A pre-trip inspection includes charging batteries, checking various mounting hardware, and checking the camera and storage media to ensure it is sufficient for the task. 
+
+* Are batteries charged (drone, controllers, iPads, aviation radio)?
+* Inspect drone and correct any issues found
+* Ensure memory card is emptied
+
+#### Information check
+
+The PIC must review up-to-date important information before each flight.
+
+* Check airspace map
+* Check NOTAMs
+* Check TFRs
+* Check weather
+
+#### Packing list
+
+The PIC must ensure all equipment is properly packed for transport to the location.
 
 #### Briefing
 
@@ -136,17 +180,16 @@ The PIC is responsible for briefing all operations personnel on each phase of fl
 
 A PIC briefing should cover, at a minimum:
 
-* Who is fulfilling each role in flight operations.
-* The expectations of each member of the flight crew.
+* Who is fulfilling each role in flight operations
+* The expectations of each member of the flight crew
 * A general description of the operations area.
-* The expected weather at the location.
-* Any known hazards, including winds, obstacles, known high traffic areas, any nearby airports or expected air traffic.
-* The specific mission goals, including expected shots, angles or subjects.
-* Any known privacy or ethical issues and mitigation steps. 
-
-#### Pre-Trip Inspection
-
-Before leaving for the operations area, the PIC should conduct a pre-trip inspection of the UAS. A pre-trip inspection includes charging batteries, checking various mounting hardware, and checking the camera and storage media to ensure it is sufficient for the task. 
+* The expected weather at the location
+* Any known hazards, including winds, obstacles, known high traffic areas, any nearby airports or expected air traffic
+* The specific mission goals, including expected shots, angles or subjects
+* Any known privacy or ethical issues and mitigation steps
+* Pre-flight rules
+* Flight rules
+* Post-flight rules
 
 ## Pre-Flight
 
@@ -159,8 +202,9 @@ The general rules of pre-flight are:
 * When on site, if non-operations people are around, operations personnel may be required to secure an area to be kept free of people so the UAS can operate without flying over people. That place may be the takeoff and landing zone. That space, to remain free of people, should be as large as the PIC thinks is practical. 
 * Weather can be very localized. When you arrive, you should check your location weather against the weather report you got from a flight briefing or automated observation service. Cloud ceilings will be most difficult to estimate on site, so be reasonable. If the clouds look low, stay low. Don't fly if fog is present.
 * Wind conditions also vary by location. An anemometer is a valuable tool for measuring wind on site, informing the PIC if wind speeds are within operational limits and how they may affect flight operations. 
-* Turn off WiFi connectivity on any UAS mounted devices, such as cameras. Active WiFi devices on the UAS can interfere with critical 2.4 GHz RC and video transmissions. Because most non-military UAS systems use 2.4GHz for either RC or video transmission, only enable WiFi if you are certain there will be no interference with your UAS hardware.
+* Turn off WiFi connectivity on any UAS mounted devices, such as cameras. Active WiFi devices on the UAS can interfere with critical RC and video transmissions. Because most non-military UAS systems use 2.4GHz for either RC or video transmission, only enable WiFi if you are certain there will be no interference with your UAS hardware.
 * Before takeoff, make sure your compass is not receiving interference from nearby metal objects, and that you have enough GPS satellite connections.
+* After power up and takeoff, perform final control and telemetry checks at low hover before beginning mission.
 
 ## Flight
 
@@ -192,6 +236,15 @@ This section is a status check for all equipment used, to determine whether it's
 #### Mission summary
 
 This section serves as a short summary of the mission, with space to note any adverse conditions or incidents.
+
+## Post-Story
+
+This section serves as a check on the use of the drone:
+
+* Did it serve its purpose?
+* Was it worth the time/energy?
+* Was the outcome appropriately promoted?
+* How can we improve the process?
 
 ## Logging
 
