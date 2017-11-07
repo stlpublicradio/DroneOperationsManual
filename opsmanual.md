@@ -58,6 +58,30 @@ Also, consider referring to the [National Press Photographers Association Code o
 
 <div style="page-break-after: always;"></div>
 
+## Training
+
+Training is an important part of maintaining safe operating procedures. It is the responsibility of the Pilot in Command to conduct drone journalism work safely, and so it is the PIC's responsibility to ensure all members of the flight crew are adequately trained. The PIC should take into account the training and experience levels of the crew, as well as the PIC's own level of training and experience when planning and executing a mission.
+
+Regardless of training and experience, all members of the flight crew must be briefed by the PIC before each flight both to reiterate the general responsibilities of each member as well as to cover flight-specific information.
+
+### Operators
+
+A Part 107-licensed pilot-in-command must be present for all flights, and, if not operating the controls, able to immediately take over the controls. Per Part 107, non-licensed operators are permitted as long as the PIC is able to take over the controls immediately.
+
+Anyone operating the controls should be trained by the PIC or be able to show they have been trained elsewhere.
+
+The PIC's decision about who may operate the UAS is final.
+
+### Observers
+
+Observers should be trained by a PIC prior to serving as an Observer on a story.
+
+### Photojournalists
+
+If a UAS has dual-operator capability, the Photojournalist operating the camera should be trained on it prior to serving as the Photojournalist on a story.
+
+<div style="page-break-after: always;"></div>
+
 ## General Operating Procedures
 
 A professional UAS operation is one that involves careful planning and forethought. Before embarking on using drones to do journalism, pilots and organizations should take several steps. First and foremost, the pilot should practice with the drone to be used. Your first flight with the drone should not be for a story. Familiarization with the platform is essential. News organizations wanting to use drones should speak with local police and fire departments well before news breaks, alerting them of future news-gathering using drones.
