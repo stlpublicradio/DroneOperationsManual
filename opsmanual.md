@@ -20,7 +20,7 @@ The Drone Journalism Lab Operations Manual is licensed under a [Creative Commons
 
 This text is a guide for safely conducting drone journalism field work. It takes into account America's current drone regulations, our understanding of the public's acceptance of drones, the state of drone technologies, and our own experiences.
 
-The No. 1 goal of any drone journalism operation is safety. At no time should safety be compromised. If there is any doubt, return the drone, also known as an unmanned aerial system (UAS), to the landing zone and terminate the flight. Ethical journalism is responsible journalism, and flying a drone means taking responsibility for the safety of those near you, on the ground and in the air. 
+The No. 1 goal of any drone journalism operation is safety. At no time should safety be compromised. If there is any doubt, return the drone, also known as an unmanned aerial system (UAS), to the landing zone and terminate the flight. Ethical journalism is responsible journalism, and flying a drone means taking responsibility for the safety of those near you, on the ground and in the air.
 
 The four flight operations roles defined in the Drone Operations Manual are: Pilot In Command (PIC), Observer, Photojournalist and Journalist. One individual can fill several or all four roles, which we define as:
 
@@ -103,7 +103,7 @@ Aside from "Flight", each section has a sheet that must be filled out and kept i
 
 The sections, and the reasoning behind them, are described here:
 
-## Story Planning
+### Story Planning
 
 Before bringing a UAS into an environment, operational personnel should define the goals of the UAS flight before doing more specific mission planning.
 
@@ -119,7 +119,7 @@ Then, consider:
 * What privacy issues can you anticipate and what steps have you taken to mitigate them?
 * What ethical issues can you anticipate and what steps have you taken to mitigate them?
 
-## Flight Planning
+### Flight Planning
 
 Prior to embarking on any drone operation, the pilot in command must gather information about the proposed flight area to ensure safe operations that comply with Federal Aviation Regulations. 
 
@@ -191,7 +191,7 @@ A PIC briefing should cover, at a minimum:
 * Flight rules
 * Post-flight rules
 
-## Pre-Flight
+### Pre-Flight
 
 Pre-flight operations are done immediately before any flight work is to occur. The pre-flight checklist repeats some of the pre-trip checklist, such as inspecting the aircraft and some of the control surfaces. Pre-trip and pre-flight inspections help ensure airworthiness and will serve as an early warning for both maintenance issues and for mechanical issues that could substantially affect or cancel flight operations.
 
@@ -206,7 +206,7 @@ The general rules of pre-flight are:
 * Before takeoff, make sure your compass is not receiving interference from nearby metal objects, and that you have enough GPS satellite connections.
 * After power up and takeoff, perform final control and telemetry checks at low hover before beginning mission.
 
-## Flight
+### Flight
 
 The flight checklist isn't really a checklist. It's a Do Constantly list. It's listed as a reminder. UAS operators must:
 
@@ -217,11 +217,11 @@ The flight checklist isn't really a checklist. It's a Do Constantly list. It's l
 
 At battery changes, and at battery changes only, should the PIC, Observer, Photojournalist and Journalist discuss changes to the operational plan. While the UAS is in flight, the PIC needs to focus on flying, and the observer needs to focus on hazards.
 
-## Post-Flight
+### Post-Flight
 
 The post-flight checklist is broken into three parts: Shutting down the drone, which is done by the PIC; inspecting the aircraft; and collecting information to enter into the logs. Logging is an important part of aviation safety and will serve as an important document in maintenance of your UAS.
 
-## Post-Trip
+### Post-Trip
 
 The post-trip checklist is also broken into three parts.
 
@@ -237,7 +237,7 @@ This section is a status check for all equipment used, to determine whether it's
 
 This section serves as a short summary of the mission, with space to note any adverse conditions or incidents.
 
-## Post-Story
+### Post-Story
 
 This section serves as a check on the use of the drone:
 
@@ -250,15 +250,15 @@ This section serves as a check on the use of the drone:
 
 UAS operations can be divided into three separate logs, largely transported over from manned aviation. They are a maintenance log, a battery log, and a flight log. 
 
-#### Maintenance Log
+### Maintenance Log
 
 A maintenance log is a simple list of issues to be checked or fixed between flights. PICs should note any issue that should be checked, from an odd wobble, unusual sound, an unusually hot motor at landing, to a complete component failure. The log should include the date, UAS Make & Model, UAS Registration Number, the ID number of the battery used when the issue occurred, the issue, who reported it, the date repaired, who repaired it and notes.
 
-#### Battery Log
+### Battery Log
 
 A battery log serves as a warning for when a battery is getting worn out and could fail. UAS batteries will degrade, providing progressively less flight time. Fully charged batteries that go unused and are not discharged for over a week can also lead to damaged battery cells. A battery log will highlight failing batteries, and give the PIC a guide as to how much time a battery will give in flight. A battery log should note the date, UAS make and model, UAS registration number, the number of past charges, the percentage of battery power remaining at shutdown, total flight time, battery depletion rate, any signs of puffing (an indicator that the battery is damaged), and usage conditions. For example, if you loaded a DJI Inspire with a 360 video camera rig containing six GoPros cameras, and flew it on a 100°F day, you would make note of those operating conditions.
 
-#### Flight Log
+### Flight Log
 
 A flight log will highlight the important events that occur from the time a UAS takes off to the time it has landed and been powered down by the PIC. Each UAS will have its own log. It should note the date, the battery used during flight, and the total flight time. Each entry should also have space for important and relevant notes about the flight, which may include a mission overview, flying conditions, distance flown, take-off and landing locations, a hard landing, etc.
 
