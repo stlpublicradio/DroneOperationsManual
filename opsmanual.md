@@ -16,29 +16,43 @@ The Drone Journalism Lab Operations Manual is licensed under a [Creative Commons
 
 <div style="page-break-after: always;"></div>
 
-## Introduction
+# Introduction
 
 This text is a guide for safely conducting drone journalism field work. It takes into account America's current drone regulations, our understanding of the public's acceptance of drones, the state of drone technologies, and our own experiences.
 
 The No. 1 goal of any drone journalism operation is safety. At no time should safety be compromised. If there is any doubt, return the drone, also known as an unmanned aerial system (UAS), to the landing zone and terminate the flight. Ethical journalism is responsible journalism, and flying a drone means taking responsibility for the safety of those near you, on the ground and in the air.
 
+# Defining roles
+
 The four flight operations roles defined in the Drone Operations Manual are: Pilot In Command (PIC), Observer, Photojournalist and Journalist. One individual can fill several or all four roles, which we define as:
 
-**The Pilot In Command:** The PIC is responsible for all flight operations. It is the PIC who has the ultimate authority on any flight. The PIC determines whether the aircraft is airworthy and capable of conducting the proposed operations. The PIC is responsible for determining whether the airspace allows the proposed operation. The PIC is responsible for conducting operations within all FAA regulations and any restrictions set forth by a grant of exemption. The PIC is responsible for briefing the other members of the flight crew about what the mission is, what their roles and responsibilities are, and what is expected of them before, during, and after flight operations. 
+## The Pilot In Command
+
+The PIC is responsible for all flight operations. It is the PIC who has the ultimate authority on any flight. The PIC determines whether the aircraft is airworthy and capable of conducting the proposed operations. The PIC is responsible for determining whether the airspace allows the proposed operation. The PIC is responsible for conducting operations within all FAA regulations and any restrictions set forth by a grant of exemption. The PIC is responsible for briefing the other members of the flight crew about what the mission is, what their roles and responsibilities are, and what is expected of them before, during, and after flight operations. 
 
 **NOTE: The pilot in command, the one holding the FAA-issued Part 107 certificate, is by regulation the final authority on whether the aircraft flies or not. If an accident occurs, it is the Part 107 certificate holder who will be held responsible. As such, news managers must accept the pilot in command's decision about flight safety as final.**
 
-**The Observer:** The Observer is responsible for monitoring the operational area to ensure that there are no hazards that may endanger the flight or people who are not part of the UAS flight operations team. The Observer is the only member of the team who can speak to the PIC during flight operations. The Observer is to alert the PIC immediately if any aircraft come into the area, or if any person or vehicle comes near the operation. The Observer must remain within speaking distance of the PIC. Do not use radios to communicate.
+## The Observer
 
-**The Photojournalist:** If part of the operation involves capturing photos or video, the Photojournalist is responsible for operating the camera attached to the aircraft during flight. The Photojournalist determines what visuals are needed and communicates that to the PIC. The PIC is responsible for determining whether meeting the Photojournalist's goals are possible under the conditions presented. During flight, the PIC may ask for feedback from the Photojournalist, but the Photojournalist should only speak to the pilot if asked. **Because the Photojournalist will be focusing on operating the camera rather than watching the aircraft, the sky, and the surrounding area, the Photojournalist may not act as Observer**.
+The Observer is responsible for monitoring the operational area to ensure that there are no hazards that may endanger the flight or people who are not part of the UAS flight operations team. The Observer is the only member of the team who can speak to the PIC during flight operations. The Observer is to alert the PIC immediately if any aircraft come into the area, or if any person or vehicle comes near the operation. The Observer must remain within speaking distance of the PIC. Do not use radios to communicate.
 
-**The Journalist:** The Journalist is responsible for communicating flight goals to the PIC and Photojournalist before flight and verifying results after landing. The Journalist determines what is needed for the story and communicates that to the PIC and Photojournalist. The PIC is responsible for determining whether meeting the Journalist's goals are possible under the conditions presented.  During flight, the PIC may ask for feedback from the Journalist, but the Journalist should only speak to the pilot if asked. The Journalist and the Photojournalist can speak freely, but should always be listening for the PIC. The Journalist can act as Observer.
+## The Photojournalist
+
+If part of the operation involves capturing photos or video, the Photojournalist is responsible for operating the camera attached to the aircraft during flight. The Photojournalist determines what visuals are needed and communicates that to the PIC. The PIC is responsible for determining whether meeting the Photojournalist's goals are possible under the conditions presented. During flight, the PIC may ask for feedback from the Photojournalist, but the Photojournalist should only speak to the pilot if asked. 
+
+**NOTE: Because the Photojournalist will be focusing on operating the camera rather than watching the aircraft, the sky, and the surrounding area, the Photojournalist may not act as Observer**.
+
+## The Journalist
+
+The Journalist is responsible for communicating flight goals to the PIC and Photojournalist before flight and verifying results after landing. The Journalist determines what is needed for the story and communicates that to the PIC and Photojournalist. The PIC is responsible for determining whether meeting the Journalist's goals are possible under the conditions presented.  During flight, the PIC may ask for feedback from the Journalist, but the Journalist should only speak to the pilot if asked. The Journalist and the Photojournalist can speak freely, but should always be listening for the PIC. The Journalist can act as Observer.
+
+---
 
 Under Part 107, operations can occur with only a PIC. If no additional personnel are available for the flight, care and consideration must be taken for the additional workload that the PIC will take on, including having to watch the operation area for hazards, completing journalistic goals and ensuring flight safety. 
 
 **NOTE: The greater the number of environmental variables (bystanders, structures, trees, wind, etc.) in an operating environment, the more substantial the demands are on the PIC.**
 
-## Ethics and Privacy
+# Ethics and Privacy
 
 UAS enable individuals to remotely access spaces and vantage points that may, for many reasons, be otherwise out of reach. Avoid actions in the air that you yourself would not engage in on the ground. 
 
