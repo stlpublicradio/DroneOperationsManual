@@ -22,36 +22,6 @@ This text is a guide for safely conducting drone journalism field work. It takes
 
 The No. 1 goal of any drone journalism operation is safety. At no time should safety be compromised. If there is any doubt, return the drone, also known as an unmanned aerial system (UAS), to the landing zone and terminate the flight. Ethical journalism is responsible journalism, and flying a drone means taking responsibility for the safety of those near you, on the ground and in the air.
 
-# Defining roles
-
-The four flight operations roles defined in the Drone Operations Manual are: Pilot In Command (PIC), Observer, Photojournalist and Journalist. One individual can fill several or all four roles, which we define as:
-
-## The Pilot In Command
-
-The PIC is responsible for all flight operations. It is the PIC who has the ultimate authority on any flight. The PIC determines whether the aircraft is airworthy and capable of conducting the proposed operations. The PIC is responsible for determining whether the airspace allows the proposed operation. The PIC is responsible for conducting operations within all FAA regulations and any restrictions set forth by a grant of exemption. The PIC is responsible for briefing the other members of the flight crew about what the mission is, what their roles and responsibilities are, and what is expected of them before, during, and after flight operations. 
-
-**NOTE: The pilot in command, the one holding the FAA-issued Part 107 certificate, is by regulation the final authority on whether the aircraft flies or not. If an accident occurs, it is the Part 107 certificate holder who will be held responsible. As such, news managers must accept the pilot in command's decision about flight safety as final.**
-
-## The Observer
-
-The Observer is responsible for monitoring the operational area to ensure that there are no hazards that may endanger the flight or people who are not part of the UAS flight operations team. The Observer is the only member of the team who can speak to the PIC during flight operations. The Observer is to alert the PIC immediately if any aircraft come into the area, or if any person or vehicle comes near the operation. The Observer must remain within speaking distance of the PIC. Do not use radios to communicate.
-
-## The Photojournalist
-
-If part of the operation involves capturing photos or video, the Photojournalist is responsible for operating the camera attached to the aircraft during flight. The Photojournalist determines what visuals are needed and communicates that to the PIC. The PIC is responsible for determining whether meeting the Photojournalist's goals are possible under the conditions presented. During flight, the PIC may ask for feedback from the Photojournalist, but the Photojournalist should only speak to the pilot if asked. 
-
-**NOTE: Because the Photojournalist will be focusing on operating the camera rather than watching the aircraft, the sky, and the surrounding area, the Photojournalist may not act as Observer**. (The exception to this is if the Pilot In Command is also serving as the Observer and the Photojournalist.)
-
-## The Journalist
-
-The Journalist is responsible for communicating flight goals to the PIC and Photojournalist before flight and verifying results after landing. The Journalist determines what is needed for the story and communicates that to the PIC and Photojournalist. The PIC is responsible for determining whether meeting the Journalist's goals are possible under the conditions presented.  During flight, the PIC may ask for feedback from the Journalist, but the Journalist should only speak to the pilot if asked. The Journalist and the Photojournalist can speak freely, but should always be listening for the PIC. The Journalist can act as Observer.
-
----
-
-Under Part 107, operations can occur with only a PIC. If no additional personnel are available for the flight, care and consideration must be taken for the additional workload that the PIC will take on, including having to watch the operation area for hazards, completing journalistic goals and ensuring flight safety. 
-
-**NOTE: The greater the number of environmental variables (bystanders, structures, trees, wind, etc.) in an operating environment, the more substantial the demands are on the PIC.**
-
 # Ethics and Privacy
 
 UAS enable individuals to remotely access spaces and vantage points that may, for many reasons, be otherwise out of reach. Avoid actions in the air that you yourself would not engage in on the ground. 
@@ -74,13 +44,59 @@ Part of the operating procedures for planning a flight will be considering any p
 
 <div style="page-break-after: always;"></div>
 
-## Training
+# FAA Regulations
+
+Commercial drone use is regulated by the FAA under Part 107 of the Federal Aviation Regulations. The pilot in command is responsible for complying with all regulations to operate legally and safely.
+
+<div style="page-break-after: always;"></div>
+
+# General Operating Procedures
+
+A professional UAS operation is one that involves careful planning and forethought. Before embarking on using drones to do journalism, pilots and organizations should take several steps. First and foremost, the pilot should practice with the drone to be used. Your first flight with the drone should not be for a story. Familiarization with the platform is essential. News organizations wanting to use drones should speak with local police and fire departments well before news breaks, alerting them of future news-gathering using drones.
+
+The general operating procedures will answer the six questions: Who, What, Where, When, How and Why.
+
+## Who
+
+### Defining roles
+
+The four flight operations roles defined in the Drone Operations Manual are: Pilot In Command (PIC), Observer, Photojournalist and Journalist. One individual can fill several or all four roles, which we define as:
+
+#### The Pilot In Command
+
+The PIC is responsible for all flight operations. It is the PIC who has the ultimate authority on any flight. The PIC determines whether the aircraft is airworthy and capable of conducting the proposed operations. The PIC is responsible for determining whether the airspace allows the proposed operation. The PIC is responsible for conducting operations within all FAA regulations and any restrictions set forth by a grant of exemption. The PIC is responsible for briefing the other members of the flight crew about what the mission is, what their roles and responsibilities are, and what is expected of them before, during, and after flight operations. 
+
+**NOTE: The pilot in command, the one holding the FAA-issued Part 107 certificate, is by regulation the final authority on whether the aircraft flies or not. If an accident occurs, it is the Part 107 certificate holder who will be held responsible. As such, news managers must accept the pilot in command's decision about flight safety as final.**
+
+#### The Observer
+
+The Observer is responsible for monitoring the operational area to ensure that there are no hazards that may endanger the flight or people who are not part of the UAS flight operations team. The Observer is the only member of the team who can speak to the PIC during flight operations. The Observer is to alert the PIC immediately if any aircraft come into the area, or if any person or vehicle comes near the operation. The Observer must remain within speaking distance of the PIC. Do not use radios to communicate.
+
+#### The Photojournalist
+
+If part of the operation involves capturing photos or video, the Photojournalist is responsible for operating the camera attached to the aircraft during flight. The Photojournalist determines what visuals are needed and communicates that to the PIC. The PIC is responsible for determining whether meeting the Photojournalist's goals are possible under the conditions presented. During flight, the PIC may ask for feedback from the Photojournalist, but the Photojournalist should only speak to the pilot if asked. 
+
+**NOTE: Because the Photojournalist will be focusing on operating the camera rather than watching the aircraft, the sky, and the surrounding area, the Photojournalist may not act as Observer**. (The exception to this is if the Pilot In Command is also serving as the Observer and the Photojournalist.)
+
+#### The Journalist
+
+The Journalist is responsible for communicating flight goals to the PIC and Photojournalist before flight and verifying results after landing. The Journalist determines what is needed for the story and communicates that to the PIC and Photojournalist. The PIC is responsible for determining whether meeting the Journalist's goals are possible under the conditions presented.  During flight, the PIC may ask for feedback from the Journalist, but the Journalist should only speak to the pilot if asked. The Journalist and the Photojournalist can speak freely, but should always be listening for the PIC. The Journalist can act as Observer.
+
+---
+
+Under Part 107, operations can occur with only a PIC. If no additional personnel are available for the flight, care and consideration must be taken for the additional workload that the PIC will take on, including having to watch the operation area for hazards, completing journalistic goals and ensuring flight safety. 
+
+**NOTE: The greater the number of environmental variables (bystanders, structures, trees, wind, etc.) in an operating environment, the more substantial the demands are on the PIC.**
+
+<div style="page-break-after: always;"></div>
+
+### Training
 
 Training is an important part of maintaining safe operating procedures. It is the responsibility of the Pilot in Command to conduct drone journalism work safely, and so it is the PIC's responsibility to ensure all members of the flight crew are adequately trained. The PIC should take into account the training and experience levels of the crew, as well as the PIC's own level of training and experience when planning and executing a mission.
 
 Regardless of training and experience, all members of the flight crew must be briefed by the PIC before each flight both to reiterate the general responsibilities of each member as well as to cover flight-specific information.
 
-### Operators
+#### Operators
 
 A Part 107-licensed pilot-in-command must be present for all flights, and, if not operating the controls, able to immediately take over the controls. Per Part 107, non-licensed operators are permitted as long as the PIC is able to take over the controls immediately.
 
@@ -88,21 +104,61 @@ Anyone operating the controls should be trained by the PIC or be able to show th
 
 The PIC's decision about who may operate the UAS is final.
 
-### Observers
+#### Observers
 
 Observers should be trained by a PIC prior to serving as an Observer on a story.
 
-### Photojournalists
+#### Photojournalists
 
 If a UAS has dual-operator capability, the Photojournalist operating the camera should be trained on it prior to serving as the Photojournalist on a story.
 
 <div style="page-break-after: always;"></div>
 
-## General Operating Procedures
+## What
 
-A professional UAS operation is one that involves careful planning and forethought. Before embarking on using drones to do journalism, pilots and organizations should take several steps. First and foremost, the pilot should practice with the drone to be used. Your first flight with the drone should not be for a story. Familiarization with the platform is essential. News organizations wanting to use drones should speak with local police and fire departments well before news breaks, alerting them of future news-gathering using drones.
+Our drone is a DJI Inspire 2. Some basic stats:
 
-The general operating procedures for drone flights are divided into sections: 
+|                         | Inspire 2 |
+| ----------------------- | --------- |
+| Max Speed               | 58 mph    |
+| Flight Time             | 27 min    |
+| Operating Temp          | -4°/104°F |
+| Wind resistance         | 22 mph    |
+| Upgradeable camera      | yes       |
+| Dual-controller enabled | yes       |
+
+It is equipped with a Zenmuse X4S camera. The camera can shoot 20 megapixel still images and 4K video at 60 FPS.
+
+The drone is dual-controller enabled. As mentioned in the _who_ section, this enables a photojournalist to operate the camera independently of the pilot-in-command.
+
+<div style="page-break-after: always;"></div>
+
+## Where and When
+
+FAA regulations impose a number of restrictions on where, when and how drones may operate. This is a summary. The pilot in command is responsible for knowing all regulations and ensuring they are complied with.
+
+* Sunrise to sunset only. Civil twilight (30 minutes before sunrise to 30 minutes after sunset) with appropriate illumination.
+* 3 or more statute miles of visibility at your location.
+* Unaided visual-line-of-sight (VLOS) only. The pilot in command must be able to see the drone without the use of cameras or binoculars.
+* No flight over unsheltered people.
+* Maximum altitude is 400 feet above ground level (AGL). Flying near a building or tower allows a higher ceiling.
+* No flying while flying (or riding, sometimes). Flying a drone while the pilot is in an aircraft is prohibited. Flying a drone while the pilot is in a land vehicle or boat is acceptable in "sparsely populated" areas.
+* No flying near clouds. The drone must be 500 feet below clouds and 2,000 feet away horizontally.
+* Yield the right of way. Drones must yield to all other aircraft and are not allowed to interfere with the operation of another aircraft.
+
+### Controlled airspace
+
+Operation in controlled airspace is prohibited without prior permission. There is controlled airspace around Lambert, Spirit of St. Louis, Cahokia (St. Louis Downtown), Belleville and Alton airports.
+
+There are other areas of prohibited airspace in our area as well, like the Arch grounds and Scott Air Force Base.
+
+### Temporary Flight Restrictions (TFRs)
+
+The FAA will issue Temporary Flight Restrictions from time to time. There will be a TFR in place over Busch Stadium during Cardinals home games. It is the pilot in command's responsibility to be aware of active TFRs.
+
+## How
+
+How will all this work? The procedures for drone flights are divided into the following sections: 
 
 * Story Planning — What is the story and why are we using the drone to cover it?
 * Flight Planning — What conditions might we encounter during the flight?
@@ -261,6 +317,12 @@ This section serves as a check on the use of the drone:
 * Was it worth the time/energy?
 * Was the outcome appropriately promoted?
 * How can we improve the process?
+
+## Why?
+
+
+
+# Appendix
 
 ## Logging
 
