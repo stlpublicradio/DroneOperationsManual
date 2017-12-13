@@ -181,7 +181,9 @@ The general requirements in each are encapsulated in checklists designed to help
 
 Aside from "Flight", each section has a sheet that must be filled out and kept in the UAS Logbook.
 
-The sections, and the reasoning behind them, are described here:
+### Starting the process
+
+To get started planning a drone story, fill out a story planning worksheet and talk to Brent.
 
 <div style="page-break-after: always;"></div>
 
