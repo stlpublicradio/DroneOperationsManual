@@ -127,9 +127,11 @@ Our drone is a DJI Inspire 2. Some basic stats:
 | Upgradeable camera      | yes       |
 | Dual-controller enabled | yes       |
 
-It is equipped with a Zenmuse X4S camera. The camera can shoot 20 megapixel still images and 4K video at 60 FPS.
+The drone is equipped with a Zenmuse X4S camera. The camera can shoot 20 megapixel still images and 4K video at 60 FPS.
 
 The drone is dual-controller enabled. As mentioned in the _who_ section, this enables a photojournalist to operate the camera independently of the pilot-in-command.
+
+While the operating temperatures and wind resistance are limits, the drone may experience degraded performance before reaching these conditions. It is the Pilot In Command's responsibility to determine when it is safe to fly.
 
 <div style="page-break-after: always;"></div>
 
