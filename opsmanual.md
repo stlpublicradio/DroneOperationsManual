@@ -213,7 +213,7 @@ Questions the PIC must answer about the location are:
 
 * What is the exact location?
 * What's the altitude of the location? How might it affect your UAS and payload during flight?
-* Have you reviewed aviation aviation charts of the location and surroundings?
+* Have you reviewed current aviation charts of the location and surroundings?
 * What airspace is it in? 
 * Are there any airspace/TFR/NOTAM restrictions in place or anticipated?
 * Do you need permission from air traffic control (ATC) or an FAA waiver?
