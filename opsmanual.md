@@ -46,7 +46,7 @@ Part of the operating procedures for planning a flight will be considering any p
 
 # FAA Regulations
 
-Commercial drone use is regulated by the FAA under Part 107 of the Federal Aviation Regulations. The pilot in command is responsible for complying with all regulations to operate legally and safely.
+Commercial drone use is regulated by the FAA under Part 107 of the Federal Aviation Regulations. The Pilot In Command is responsible for complying with all regulations to operate legally and safely.
 
 <div style="page-break-after: always;"></div>
 
@@ -66,7 +66,7 @@ The four flight operations roles defined in the Drone Operations Manual are: Pil
 
 The PIC is responsible for all flight operations. It is the PIC who has the ultimate authority on any flight. The PIC determines whether the aircraft is airworthy and capable of conducting the proposed operations. The PIC is responsible for determining whether the airspace allows the proposed operation. The PIC is responsible for conducting operations within all FAA regulations and any restrictions set forth by a grant of exemption. The PIC is responsible for briefing the other members of the flight crew about what the mission is, what their roles and responsibilities are, and what is expected of them before, during, and after flight operations. 
 
-**NOTE: The pilot in command, the one holding the FAA-issued Part 107 certificate, is by regulation the final authority on whether the aircraft flies or not. If an accident occurs, it is the Part 107 certificate holder who will be held responsible. As such, news managers must accept the pilot in command's decision about flight safety as final.**
+**NOTE: The Pilot In Command, the one holding the FAA-issued Part 107 certificate, is by regulation the final authority on whether the aircraft flies or not. If an accident occurs, it is the Part 107 certificate holder who will be held responsible. As such, news managers must accept the Pilot In Command's decision about flight safety as final.**
 
 #### The Observer
 
@@ -137,11 +137,11 @@ While the operating temperatures and wind resistance are limits, the drone may e
 
 ## Where and When
 
-FAA regulations impose a number of restrictions on where, when and how drones may operate. This is a summary. The pilot in command is responsible for knowing all regulations and ensuring they are complied with.
+FAA regulations impose a number of restrictions on where, when and how drones may operate. This is a summary. The Pilot In Command is responsible for knowing all regulations and ensuring they are complied with.
 
 * Sunrise to sunset only. Civil twilight (30 minutes before sunrise to 30 minutes after sunset) with appropriate illumination.
 * 3 or more statute miles of visibility at your location.
-* Unaided visual-line-of-sight (VLOS) only. The pilot in command must be able to see the drone without the use of cameras or binoculars.
+* Unaided visual-line-of-sight (VLOS) only. The Pilot In Command must be able to see the drone without the use of cameras or binoculars.
 * No flight over unsheltered people.
 * Maximum altitude is 400 feet above ground level (AGL). Flying near a building or tower allows a higher ceiling.
 * No flying while flying (or riding, sometimes). Flying a drone while the pilot is in an aircraft is prohibited. Flying a drone while the pilot is in a land vehicle or boat is acceptable in "sparsely populated" areas.
@@ -156,7 +156,7 @@ There are other areas of prohibited airspace in our area as well, like the Arch 
 
 ### Temporary Flight Restrictions (TFRs)
 
-The FAA will issue Temporary Flight Restrictions from time to time. There will be a TFR in place over Busch Stadium during Cardinals home games. It is the pilot in command's responsibility to be aware of active TFRs.
+The FAA will issue Temporary Flight Restrictions from time to time. There will be a TFR in place over Busch Stadium during Cardinals home games. It is the Pilot In Command's responsibility to be aware of active TFRs.
 
 ## How
 
@@ -195,7 +195,7 @@ Then, consider:
 
 ### Flight Planning
 
-Prior to embarking on any drone operation, the pilot in command must gather information about the proposed flight area to ensure safe operations that comply with Federal Aviation Regulations. 
+Prior to embarking on any drone operation, the Pilot In Command must gather information about the proposed flight area to ensure safe operations that comply with Federal Aviation Regulations. 
 
 #### Location
 
