@@ -355,110 +355,9 @@ A flight log will highlight the important events that occur from the time a UAS 
 
 <div style="page-break-after: always;"></div>
 
-## Normal Operating Checklists
-
-What follows are the normal operating checklists to be completed for each flight.
-
-<div style="page-break-after: always;"></div>
-
-#### Pre-Trip Checklist 
-
-#### Date: ______________________
-
-Item                     | Action                             | Status |  
------------------------- | ---------------------------------- | ------ |  
-Batteries                | Charge                             |        |  
-Controller Batteries     | Charge                             |        |  
-Propeller nuts           | Check and tighten                  |        |  
-Landing strut screws     | Check and tighten                  |        |  
-Motor mount screws       | Check and tighten                  |        |  
-Gimbal wiring            | Check and tighten                  |        |  
-Gimbal mount             | Check and tighten                  |        |  
-Gimbal camera harness    | Check and tighten                  |        |  
-Compass wiring           | Check and reseat                   |        |  
-Airframe check           | Inspect for damage                 |        |  
-Registration markings    | Check for display                  |        |  
-Camera battery           | Charge                             |        |  
-Camera memory card       | Check and empty                    |        |  
-Mission planning meeting | Record goals of the flight         |        |  
-Airspace check           | Consult airspace map, NOTAMs, TFRs |        |  
-Airport check            | Contact ATC, if needed             |        |  
-
-<div style="page-break-after: always;"></div>
-
-#### Pre-Flight Checklist 
-
-#### Date: ______________________
-
-Item                    | Action                                                                     | Status |  
------------------------ | -------------------------------------------------------------------------- | ------ |  
-Weather                 | Check location conditions against weather reports                          |        |  
-Wind conditions         | Measure at location, check operation maximums                              |        |  
-Flight area             | Visually inspect for hazards, note, and report                             |        |  
-Takeoff/landing area    | Delineate and clear of debris                                              |        |  
-Operations area         | Delineate > 15 feet from takeoff area                                      |        |  
-Flight area             | If needed, secure flight area to be kept free from people to ensure safety |        |  
-Pre-flight meeting      | Review goals                                                               |        |  
-WiFi                    | Turn off WiFi connectivity on any UAS mounted device, including cameras    |        |  
-Airworthiness check     | Visually inspect aircraft                                                  |        |  
-Airworthiness check     | Visually inspect control surfaces and linkages                             |        |  
-Airworthiness check     | Inspect props for balance, damage                                          |        |  
-Airworthiness check     | Check camera/gimbal security                                               |        |  
-Airworthiness check     | Verify controller batteries                                                |        |  
-Airworthiness check     | Verify controller is on                                                    |        |  
-Airworthiness check     | Verify UAS battery                                                         |        |  
-Airworthiness check     | Verify UAS battery is on                                                   |        |  
-Airworthiness check     | Verify display panel working properly                                      |        |  
-Airworthiness check     | Calibrate compass, if necessary                                            |        |  
-Airworthiness check     | Check navigation and telemetry connection                                  |        |  
-Non-PIC personnel       | Leave takeoff area, if present                                             |        |  
-PIC                     | Leave takeoff area before launch                                           |        |  
-Video monitor           | Check wireless connection                                                  |        |  
-All clear check         | Check takeoff area, airspace, flight area                                  |        |  
-Power up                | Unlock motors, increase throttle                                           |        |  
-Final pre-mission check | At low hover, check telemetry status                                       |        |  
-Final pre-mission check | At low hover, check prop balance and controls                              |        |  
-
-<div style="page-break-after: always;"></div>
-
-#### Flight Checklist 
-
-#### Date: ______________________
-
-Item                   | Action                                          | Status |  
----------------------- | ----------------------------------------------- | ------ |  
-Airborne hazard check  | Observer reports immediately (Over-communicate) |        |  
-Ground hazard check    | Observer reports immediately                    |        |  
-Battery check          | PIC monitors battery levels frequently          |        |  
-Flight parameter check | PIC evaluates altitude                          |        |  
-Low battery alert      | Return to landing area                          |        |  
-Battery change         | Pilot in command changes the battery            |        |  
-Battery change meeting | Evaluate mission goals                          |        |  
-
-<div style="page-break-after: always;"></div>
-
-#### Post-Flight Checklist
-
-#### Date: ______________________
-
-Item            | Action                                | Status |  
---------------- | ------------------------------------- | ------ |  
-Battery removal | Pilot in command removes the battery  |        |  
-Controller      | Turn off after battery removal        |        |  
-Motor check     | Touch motors to check for overheating |        |  
-Camera          | Turn off if required                  |        |  
-Memory card     | Remove from camera                    |        |  
-Propellers      | Visual inspection, log changes        |        |  
-Landing struts  | Visual inspection, log changes        |        |  
-Gimbal          | Visual inspection, log changes        |        |  
-Housing         | Return UAS to case after inspection   |        |  
-Flight log      | Update flight log                     |        |  
-
-<div style="page-break-after: always;"></div>
-
 ## Emergency Procedures
 
-#### Lost Link/Mission Procedures
+### Lost Link/Mission Procedures
 
 **General Operational Guidelines**: The RC link is for the PIC to directly control the aircraft. If the PIC enables the UAS to operate autonomously and automated flight functionality is lost, the drone will revert to RC control and the PIC will take over flight, return it to the landing zone and land. If the UAS starts showing any sign of not following the automated flight path, and the manual override doesn't happen automatically, the PIC should take the steps necessary for manual control. Check your UAS manual for how to manually override autonomous operation. If the RC link is lost, many commercial based UAS systems are configured with an automatic return to home procedure built-in to the UAS flight controller to prevent drift outside of the operation area. 
 
@@ -492,7 +391,7 @@ PIC|Upon UAS landing PIC turns off battery immediately
 
 <div style="page-break-after: always;"></div>
 
-#### Emergency Assumption of Control
+### Emergency Assumption of Control
 
 During any automated flight, if there is any concern that the UAS is not flying the planned mission or that control characteristics are abnormal, the PIC will take manual control of the UAS with RC control, return it to the landing zone if possible, and land it. There may be minor problems that do not require emergency assumption of control. In these cases, the GCS communication can direct the UAS to land or the PIC can manually land the UAS.
 
@@ -509,7 +408,7 @@ PIC|If practical, return UAS to pre-determined landing zone, execute landing
 
 <div style="page-break-after: always;"></div>
 
-#### Loss of Sight
+### Loss of Sight
 
 Regulations require that the UAS remain within Visual Line of Sight(VLOS) at all times. If, that VLOS is broken, the PIC should return to VLOS immediately if possible. If PIC cannot return UAS to VLOS, using the GCS, the PIC should execute a preprogrammed flight path to return to the landing zone.
 
@@ -528,7 +427,7 @@ PIC|Post flight, record conditions that led to loss of VLOS
 
 <div style="page-break-after: always;"></div>
 
-#### Other In-Flight Emergencies
+### Other In-Flight Emergencies
 
 In most emergency situations, the general protocol is to land as soon as is safely practical. In many emergency situations, landing at the pre-determined landing zone will not be possible. The goal is a controlled, safe landing.
 
