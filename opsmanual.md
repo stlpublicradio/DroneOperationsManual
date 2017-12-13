@@ -98,7 +98,7 @@ Regardless of training and experience, all members of the flight crew must be br
 
 #### Operators
 
-A Part 107-licensed pilot-in-command must be present for all flights, and, if not operating the controls, able to immediately take over the controls. Per Part 107, non-licensed operators are permitted as long as the PIC is able to take over the controls immediately.
+A Part 107-licensed pilot-in-command must be present for all flights, and, if not operating the controls, be able to immediately take over the controls. Per Part 107, non-licensed operators are permitted as long as the PIC is able to take over the controls immediately.
 
 Anyone operating the controls should be trained by the PIC or be able to show they have been trained elsewhere.
 
