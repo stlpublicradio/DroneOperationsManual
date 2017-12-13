@@ -74,7 +74,7 @@ The Observer is responsible for monitoring the operational area to ensure that t
 
 #### The Photojournalist
 
-If part of the operation involves capturing photos or video, the Photojournalist is responsible for operating the camera attached to the aircraft during flight. The Photojournalist determines what visuals are needed and communicates that to the PIC. The PIC is responsible for determining whether meeting the Photojournalist's goals are possible under the conditions presented. During flight, the PIC may ask for feedback from the Photojournalist, but the Photojournalist should only speak to the pilot if asked. 
+If part of the operation involves capturing photos or video, the Photojournalist is responsible for operating the camera attached to the aircraft during flight. The Photojournalist determines what visuals are needed and communicates that to the PIC prior to the flight. The PIC is responsible for determining whether meeting the Photojournalist's goals are possible under the conditions presented. During flight, the PIC may ask for feedback from the Photojournalist, but the Photojournalist should only speak to the pilot if asked. 
 
 **NOTE: Because the Photojournalist will be focusing on operating the camera rather than watching the aircraft, the sky, and the surrounding area, the Photojournalist may not act as Observer**. (The exception to this is if the Pilot In Command is also serving as the Observer and the Photojournalist.)
 
