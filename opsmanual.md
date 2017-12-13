@@ -477,44 +477,42 @@ PIC|Post flight, record details of flight for report
 
 ## Glossary
 
-AGL - Above Ground Level. 
+**Above Ground Level (AGL)** - Reported in feet, the height above the ground. Part 107 allows flight up to 400 feet AGL in most circumstances.
 
-GCS - Ground Control Station.
+**Air Traffic Control (ATC)** - The controlling authority for an airspace, often based at a nearby airport.
 
-Journalist (as defined in this manual) - Responsible for communicating flight goals to the PIC before flight and verifying results after landing.
+**Briefing** - The Pilot In Command is responsible for briefing the members of the operation before each flight.
 
-NOTAM - Notice to Airmen. A notice released by an aviation authority to alert PICs of potential hazards on a flight route, or at a location that could affect the safety of the flight.
+**Civil Twilight** - 30 minutes before sunrise, 30 minutes after sunset. May only operate then with appropriate illumination.
 
-Observer (as defined in this manual) - Responsible for monitoring the operational area to ensure that there are no hazards that may endanger the flight or people not part of the UAS flight operation team.
+**Controlled airspace** - Class A, B, C, D, or E airspace, usually found near airports. Part 107 does not allow operations in controlled airspace without prior permission.
 
-PIC - Pilot In Command. Responsible for all flight operations.
+**Drone** - aka UAS. Ours is a DJI Inspire 2.
 
-UAS - Unmanned Aerial System.
+**Federal Aviation Administration (FAA)** - The regulating authority on aircraft in the United States.
 
-METAR - Aviation Weather Report.
+**Ground Control Station (GCS)** - The device controlling operation of the drone.
 
-VLOS - Visual line of sight. Part 107 requires PICs to fly their UAS within visual line of sight. Binoculars and other devices to extend vision are not allowed.
+**Journalist** (as defined in this manual) - Responsible for communicating flight goals to the PIC before flight and verifying results after landing.
 
+**METAR** - Aviation weather report.
 
+**Notice to Airmen (NOTAM)** - A notice released by an aviation authority to alert PICs of potential hazards on a flight route, or at a location that could affect the safety of the flight.
 
+**Observer** (as defined in this manual) - Responsible for monitoring the operational area to ensure that there are no hazards that may endanger the flight or people not part of the UAS flight operation team.
 
+**Operator** - The person physically operating the drone. May be the Pilot In Command. Another trained person may operate the drone, provided the Pilot In Command is immediately able to take control.
 
+**Part 107** - Part 107 of the Federal Aviation Regulations. This regulates use of unmanned aircraft.
 
+**Photojournalist** (as defined in this manual) - Responsible for communicating visual goals to the PIC and operating the camera during flight.
 
+**Pilot In Command (PIC)** - The Pilot In Command is the person who holds the FAA Airman Certification. Responsible for all flight operations.
 
+**Temporary Flight Restrictions (TFRs)** - A notice from the FAA prohibiting flight in a certain area, temporarily. These are put in place around outdoor sporting events, and visiting dignitaries, among other situations.
 
+**Training** - The Pilot In Command is responsible for ensuring all members of the operation are adequately trained in their roles.
 
+**UAS** - Unmanned Aerial System, aka drone.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Unaided Visual Line of Sight (VLOS)** - The ability to see the drone with eyesight alone. Drones are required to be kept within unaided visual line of sight. Binoculars and other devices to extend vision are not allowed. Flying by using the drone's cameras is not allowed.
