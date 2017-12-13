@@ -22,6 +22,8 @@ This text is a guide for safely conducting drone journalism field work. It takes
 
 The No. 1 goal of any drone journalism operation is safety. At no time should safety be compromised. If there is any doubt, return the drone, also known as an unmanned aerial system (UAS), to the landing zone and terminate the flight. Ethical journalism is responsible journalism, and flying a drone means taking responsibility for the safety of those near you, on the ground and in the air.
 
+<div style="page-break-after: always;"></div>
+
 # Ethics and Privacy
 
 UAS enable individuals to remotely access spaces and vantage points that may, for many reasons, be otherwise out of reach. Avoid actions in the air that you yourself would not engage in on the ground. 
@@ -55,6 +57,8 @@ Commercial drone use is regulated by the FAA under Part 107 of the Federal Aviat
 A professional UAS operation is one that involves careful planning and forethought. Before embarking on using drones to do journalism, pilots and organizations should take several steps. First and foremost, the pilot should practice with the drone to be used. Your first flight with the drone should not be for a story. Familiarization with the platform is essential. News organizations wanting to use drones should speak with local police and fire departments well before news breaks, alerting them of future news-gathering using drones.
 
 The general operating procedures will answer the six questions: Who, What, Where, When, How and Why.
+
+<div style="page-break-after: always;"></div>
 
 ## Who
 
@@ -158,6 +162,8 @@ There are other areas of prohibited airspace in our area as well, like the Arch 
 
 The FAA will issue Temporary Flight Restrictions from time to time. There will be a TFR in place over Busch Stadium during Cardinals home games. It is the Pilot In Command's responsibility to be aware of active TFRs.
 
+<div style="page-break-after: always;"></div>
+
 ## How
 
 How will all this work? The procedures for drone flights are divided into the following sections: 
@@ -177,6 +183,8 @@ Aside from "Flight", each section has a sheet that must be filled out and kept i
 
 The sections, and the reasoning behind them, are described here:
 
+<div style="page-break-after: always;"></div>
+
 ### Story Planning
 
 Before bringing a UAS into an environment, operational personnel should define the goals of the UAS flight before doing more specific mission planning.
@@ -192,6 +200,8 @@ Then, consider:
 * How much drone video or photography do you need to tell the story?
 * What privacy issues can you anticipate and what steps have you taken to mitigate them?
 * What ethical issues can you anticipate and what steps have you taken to mitigate them?
+
+<div style="page-break-after: always;"></div>
 
 ### Flight Planning
 
@@ -216,6 +226,8 @@ Questions the PIC must answer about the location are:
 * Are your weather parameters within Part 107 minimums? 
 * Are wind levels below the operational maximums set by the manufacturer or by your own operational guidelines?
 * Have you factored in the effects of temperature on the batteries? 
+
+<div style="page-break-after: always;"></div>
 
 ### Pre-Trip Checklist
 
@@ -265,6 +277,8 @@ A PIC briefing should cover, at a minimum:
 * Flight rules
 * Post-flight rules
 
+<div style="page-break-after: always;"></div>
+
 ### Pre-Flight
 
 Pre-flight operations are done immediately before any flight work is to occur. The pre-flight checklist repeats some of the pre-trip checklist, such as inspecting the aircraft and some of the control surfaces. Pre-trip and pre-flight inspections help ensure airworthiness and will serve as an early warning for both maintenance issues and for mechanical issues that could substantially affect or cancel flight operations.
@@ -280,6 +294,8 @@ The general rules of pre-flight are:
 * Before takeoff, make sure your compass is not receiving interference from nearby metal objects, and that you have enough GPS satellite connections.
 * After power up and takeoff, perform final control and telemetry checks at low hover before beginning mission.
 
+<div style="page-break-after: always;"></div>
+
 ### Flight
 
 The flight checklist isn't really a checklist. It's a Do Constantly list. It's listed as a reminder. UAS operators must:
@@ -291,9 +307,13 @@ The flight checklist isn't really a checklist. It's a Do Constantly list. It's l
 
 At battery changes, and at battery changes only, should the PIC, Observer, Photojournalist and Journalist discuss changes to the operational plan. While the UAS is in flight, the PIC needs to focus on flying, and the observer needs to focus on hazards.
 
+<div style="page-break-after: always;"></div>
+
 ### Post-Flight
 
 The post-flight checklist is broken into three parts: Shutting down the drone, which is done by the PIC; inspecting the aircraft; and collecting information to enter into the logs. Logging is an important part of aviation safety and will serve as an important document in maintenance of your UAS.
+
+<div style="page-break-after: always;"></div>
 
 ### Post-Trip
 
@@ -311,6 +331,8 @@ This section is a status check for all equipment used, to determine whether it's
 
 This section serves as a short summary of the mission, with space to note any adverse conditions or incidents.
 
+<div style="page-break-after: always;"></div>
+
 ### Post-Story
 
 This section serves as a check on the use of the drone:
@@ -319,6 +341,8 @@ This section serves as a check on the use of the drone:
 * Was it worth the time/energy?
 * Was the outcome appropriately promoted?
 * How can we improve the process?
+
+<div style="page-break-after: always;"></div>
 
 ## Why?
 
@@ -334,6 +358,8 @@ There are a few basic categories drone use can fall into:
 * Explain using maps — we can use drone imagery to create up-to-date maps in a specific location, to a specific scale.
 * Explain using graphics — we can augment graphics with imagery or data from the drone.
 * Gather some data — we can use the drone to capture data, whether that be visual data from the camera, or other kinds of data from other sensors.
+
+<div style="page-break-after: always;"></div>
 
 # Appendix
 
@@ -371,8 +397,6 @@ PIC|PIC assumes control via RC, if possible
 Observer|Observer notifies other operations personnel
 PIC|Returns UAS to pre-determined landing area as safely practical
 PIC|Land UAS
-
-<div style="page-break-after: always;"></div>
 
 **Lost RC Control Procedure Checklist**
 
