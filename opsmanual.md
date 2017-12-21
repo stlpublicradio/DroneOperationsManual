@@ -383,6 +383,100 @@ A flight log will highlight the important events that occur from the time a UAS 
 
 <div style="page-break-after: always;"></div>
 
+## Briefing
+
+Below is sample language to use for the pre-flight briefing.
+
+### Intro
+
+Today we'll be flying at *location*. We'll be gathering *[photos|video|other]* of *[subject]*.
+
+### Roles
+
+We'll now review the roles and responsibilities of each role.
+
+I'll be the Pilot in Command for this flight. *[Person]* will be the Observer. *[Person]* will be the Photojournalist. *[Person]* will be the Journalist.
+
+The PIC is responsible for all flight operations and is the only person allowed to touch the drone. Please listen for communications from the PIC during the mission.
+
+The Observer is responsible for monitoring the area to ensure there are no hazards that may endanger the flight or people on the ground. The Observer is the only member of the team who can speak to the PIC during the flight. The Observer will alert the PIC immediately if any aircraft, person or vehicle comes near the operation. The Observer will remain within speaking distance of the PIC.
+
+The Photojournalist is responsible for operating the camera. The Photojournalist will determine what visuals are needed and communicate that to the PIC prior to the flight. During the flight, the PIC may ask for feedback from the Photojournalist, but the Photojournalist should only speak to the pilot if asked.
+
+The Journalist is responsible for communicating flight goals to the PIC and Photojournalist before flight and verifying results after landing. During flight, the PIC may ask for feedback from the Journalist, but the Journalist should only speak to the pilot if asked.
+
+The Observer, Photojournalist and Journalist can speak freely among each other, but should always be listening for the PIC.
+
+### Location
+
+The area where we'll be operating today is *[general description of area]*. Some things to be aware of regarding the location are:
+
+*[Review known or anticipated hazards, potential for air traffic and potential for human traffic.]*
+
+### Weather
+
+The weather for the flight today is forecast to be *[great|good|fair|poor]* with a temperature of *[temp]*, winds of *[windspeed, direction, gusts]*, clouds at *[ceiling]* and *[chance of precipitation]*.
+
+Anticipated weather hazards are *[potential hazards]*.
+
+### Specific mission goals
+
+The specific goals for this mission are:
+
+*[List goals, such as specific shots or images to acquire, data to collect, etc.]*
+
+We can anticipate this might take *[number of expected flights/battery changes]* flights.
+
+### Ethical and privacy concerns
+
+Some ethical and privacy concerns that have been raised regarding this flight are *[review concerns]*.
+
+Our plans to mitigate those are *[review plans]*.
+
+### Rules
+
+We'll now review rules for pre-flight, flight and post-flight.
+
+#### Pre-flight
+
+Upon arrival, the PIC will complete the pre-flight checklist. This includes the following:
+
+The PIC will check the weather, review the site for hazards and select a takeoff and landing area. The PIC will conduct a final pre-flight meeting to review mission goals. 
+
+The PIC will conduct a final airworthines check of the drone. Do not approach or touch the drone unless asked by the PIC.
+
+All personnel will leave the launch area, staying at least 15 feet from the drone. The PIC and Observer will conduct an all-clear check of the operations area. After power-up, the PIC will conduct a final pre-mission check of the drone as it is operating.
+
+The PIC will communicate start of mission.
+
+#### Flight
+
+**While the drone is in flight, the PIC needs to focus on flying and the Observer needs to focus on hazards. Safety is the number one priority.**
+
+During flight, the Observer is the only person allowed to speak to the PIC. The Photojournalist and Journalist should only speak to the PIC if asked.
+
+During flight, the PIC and Observer will constantly scan for airborne traffic or obstacles. The Observer will report any to the PIC immediately.
+
+The Observer will constantly scan for people on the ground in the flight area and report to the PIC immediately.
+
+The PIC will constantly check battery levels and other flight parameters and return to home when necessary.
+
+The PIC will communicate any emergency situations.
+
+At battery changes, and battery changes only, the PIC, Observer, Photojournalist and Journalist may discuss changes to the operational plan.
+
+#### Post-flight
+
+After flying, the PIC will complete the post-flight checklist. This includes the following:
+
+The PIC will log the battery percentage. The PIC will remove the batteries from the drone. Do not approach or touch the drone unless asked by the PIC.
+
+The Photojournalist and Journalist will review captured images or video.
+
+The PIC will inspect and pack the drone and accessories.
+
+<div style="page-break-after: always;"></div>
+
 ## Emergency Procedures
 
 ### Lost Link/Mission Procedures
