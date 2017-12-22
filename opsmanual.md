@@ -76,7 +76,7 @@ There are a few basic categories drone use can fall into. This list is not compr
 
 * Aestheic perspective — Using a different camera angle can help better tell the story.
 * See the scale — A different angle not just to add visual interest, but to show the scope or context of something.
-* See hidden things — There are things we can't easily see from the ground, or places we can't easily go. There are privacy and ethical issues to consider here, certainly.
+* See hard-to-see things — There are things we can't easily see from the ground, or places we can't easily go. There are privacy and ethical issues to consider here, certainly.
 * Explain using maps — we can use drone imagery to create up-to-date maps in a specific location, to a specific scale.
 * Explain using graphics — we can augment graphics with imagery or data from the drone.
 * Gather some data — we can use the drone to capture data, whether that be visual data from the camera, or other kinds of data from other sensors.
