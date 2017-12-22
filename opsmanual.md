@@ -204,7 +204,7 @@ How will all this work in the newsroom? The procedures for drone flights are div
 * Post-trip — Was the mission completed as expected? Does any equipment need to be checked, repaired or replaced? Complete logs.
 * Post-Story — Was the story as expected? Did the use of the UAS serve its intended purpose? Was it worth the investment?
 
-The general requirements in each section are encapsulated in checklists designed to help ensure each step is accomplished.
+The general requirements in each section are encapsulated in checklists designed to help ensure each step is accomplished. The mission planning sheets are available in the index.
 
 Aside from "Flight", each section has a sheet that must be filled out and kept in the UAS Logbook.
 
@@ -256,7 +256,7 @@ Questions the PIC must answer about the location are:
 
 <div style="page-break-after: always;"></div>
 
-### Pre-Trip Checklist
+### Pre-Trip
 
 Immediately before leaving, the PIC should complete the pre-trip checklist. This includes basic information, a drone check, info check, packing list and briefing.
 
@@ -373,7 +373,7 @@ This section serves as a check on the use of the drone:
 
 ## Logging
 
-UAS operations can be divided into three separate logs, largely transported over from manned aviation. They are a maintenance log, a battery log, and a flight log. 
+UAS operations can be divided into three separate logs, largely transported over from manned aviation. They are a maintenance log, a battery log, and a flight log. The log sheets are available in the appendix.
 
 ### Maintenance Log
 
