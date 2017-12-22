@@ -1,6 +1,6 @@
 <div style="padding-top:300px"></div>
 <p style="font-size:35px">St. Louis Public Radio</p>
-<p style="font-size:80px">Drone Operations Manual</p>
+<p style="font-size:75px">Drone Operations Manual</p>
 <div style="page-break-after: always;"></div>
 <div style="padding-top:300px"></div>
 
@@ -37,6 +37,8 @@ Consider referring to the [SPJ Code of Ethics](http://www.spj.org/ethicscode.asp
 * "Show compassion for those who may be affected by news coverage. Realize that private people have a greater right to control information about themselves than public figures and others who seek power, influence or attention. Weigh the consequences of publishing or broadcasting personal information. Avoid pandering to lurid curiosity, even if others do." 
 
 > In short, respect people's privacy, and don't use a UAS as a tool for intrusion. Don't fly up to people's windows. Seek permission to fly over private property where practical. While there has been extensive speculation about how high above the ground private property extends, there is currently no clear legal precedent indicating where private property ends and public airspace begins, in the context of drones. Until a legal standard is set, all due caution should be exercised.
+
+<!--BREAK-->
 
 Also, consider referring to the [National Press Photographers Association Code of Ethics](https://nppa.org/code_of_ethics), including the following standards:
 
@@ -103,7 +105,7 @@ The Observer is responsible for monitoring the operational area to ensure that t
 
 If part of the operation involves capturing photos or video, the Photojournalist is responsible for operating the camera attached to the aircraft during flight. The Photojournalist determines what visuals are needed and communicates that to the PIC prior to the flight. The PIC is responsible for determining whether meeting the Photojournalist's goals are possible under the conditions presented. During flight, the PIC may ask for feedback from the Photojournalist, but the Photojournalist should only speak to the pilot if asked. 
 
-**NOTE: Because the Photojournalist will be focusing on operating the camera rather than watching the aircraft, the sky, and the surrounding area, the Photojournalist may not act as Observer**. (The exception to this is if the Pilot In Command is also serving as the Observer and the Photojournalist.)
+<!--BREAK-->
 
 #### The Journalist
 
@@ -208,8 +210,6 @@ Aside from "Flight", each section has a sheet that must be filled out and kept i
 
 To get started planning a drone story, fill out a story planning worksheet and talk to Brent.
 
-<div style="page-break-after: always;"></div>
-
 ### Story Planning
 
 Before bringing a UAS into an environment, the Journalist (and if appropriate the Photojournalist) should define the goals of the UAS flight before doing more specific mission planning.
@@ -285,6 +285,8 @@ The PIC must review up-to-date important information before each flight.
 
 The PIC must ensure all equipment is properly packed for transport to the location.
 
+<!--BREAK-->
+
 #### Briefing
 
 The PIC is responsible for briefing all operations personnel on each phase of flight. The PIC will designate the observer, the photojournalist and the journalist, will explain their roles and what will happen during flight. 
@@ -332,13 +334,11 @@ The flight checklist isn't really a checklist. It's a Do Constantly list. It's l
 
 At battery changes, and at battery changes only, should the PIC, Observer, Photojournalist and Journalist discuss changes to the operational plan. While the UAS is in flight, the PIC needs to focus on flying, and the observer needs to focus on hazards.
 
-<div style="page-break-after: always;"></div>
+<!--BREAK-->
 
 ### Post-Flight
 
 The post-flight checklist is broken into three parts: Shutting down the drone, which is done by the PIC; inspecting the aircraft; and collecting information to enter into the logs. Logging is an important part of aviation safety and will serve as an important document in maintenance of your UAS.
-
-<div style="page-break-after: always;"></div>
 
 ### Post-Trip
 
@@ -355,8 +355,6 @@ This section is a status check for all equipment used, to determine whether it's
 #### Mission summary
 
 This section serves as a short summary of the mission, with space to note any adverse conditions or incidents.
-
-<div style="page-break-after: always;"></div>
 
 ### Post-Story
 
@@ -419,6 +417,8 @@ The area where we'll be operating today is *[general description of area]*. Some
 
 *[Review known or anticipated hazards, potential for air traffic and potential for human traffic.]*
 
+<!--BREAK-->
+
 ### Weather
 
 The weather for the flight today is forecast to be *[great|good|fair|poor]* with a temperature of *[temp]*, winds of *[windspeed, direction, gusts]*, clouds at *[ceiling]* and *[chance of precipitation]*.
@@ -454,6 +454,8 @@ The PIC will conduct a final airworthines check of the drone. Do not approach or
 All personnel will leave the launch area, staying at least 15 feet from the drone. The PIC and Observer will conduct an all-clear check of the operations area. After power-up, the PIC will conduct a final pre-mission check of the drone as it is operating.
 
 The PIC will communicate start of mission.
+
+<!--BREAK-->
 
 #### Flight
 
