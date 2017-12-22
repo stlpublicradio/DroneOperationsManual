@@ -1,126 +1,314 @@
 <div style="padding-top:300px"></div>
-<p style="font-size:35px">Drone Journalism Lab</p>
-<p style="font-size:100px">Operations Manual</p>
+<p style="font-size:35px">St. Louis Public Radio</p>
+<p style="font-size:75px">Drone Operations Manual</p>
 <div style="page-break-after: always;"></div>
 <div style="padding-top:300px"></div>
-####Credits####
 
-This manual was created by Matt Waite and Ben Kreimer of the University of Nebraska-Lincoln's Drone Journalism Lab through generous support from the John S. and James L. Knight Foundation.
+#### Credits
+
+This manual was created by created by Matt Waite and Ben Kreimer of the University of Nebraska-Lincoln's Drone Journalism Lab through generous support from the John S. and James L. Knight Foundation. It was modified for use at St. Louis Public Radio by Brent Jones.
 
 <center><img src="knight-logo-small.jpg"></center>
 
-
-####License####
+#### License
 
 The Drone Journalism Lab Operations Manual is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 <div style="page-break-after: always;"></div>
 
-##Introduction
+# Introduction
 
 This text is a guide for safely conducting drone journalism field work. It takes into account America's current drone regulations, our understanding of the public's acceptance of drones, the state of drone technologies, and our own experiences.
 
-The No. 1 goal of any drone journalism operation is safety. At no time should safety be compromised. If there is any doubt, return the drone, also known as an unmanned aerial system (UAS), to the landing zone and terminate the flight. Ethical journalism is responsible journalism, and flying a drone means taking responsibility for the safety of those near you, on the ground and in the air. 
+The No. 1 goal of any drone journalism operation is safety. At no time should safety be compromised. If there is any doubt, return the drone, also known as an unmanned aerial system (UAS), to the landing zone and terminate the flight. Ethical journalism is responsible journalism, and flying a drone means taking responsibility for the safety of those near you, on the ground and in the air.
 
-The three flight operations roles defined in the Drone Journalism Lab Operations Manual are: Pilot In Command (PIC), Observer, and Journalist. One individual can fill all three roles, which we define as:
+<div style="page-break-after: always;"></div>
 
-**The Pilot In Command:** The PIC is responsible for all flight operations. It is the PIC who has the ultimate authority on any flight. The PIC determines whether the aircraft is airworthy and capable of conducting the proposed operations. The PIC is responsible for determining whether the airspace allows the proposed operation. The PIC is responsible for conducting operations within all FAA regulations and any restrictions set forth by a grant of exemption. The PIC is responsible for briefing the other members of the flight crew about what the mission is, what their roles and responsibilities are, and what is expected of them before, during, and after flight operations. 
-
-**NOTE: The pilot in command, the one holding the FAA-issued Part 107 certificate, is by regulation the final authority on whether the aircraft flies or not. If an accident occurs, it is the Part 107 certificate holder who will be held responsible. As such, news managers must accept the pilot in command's decision about flight safety as final.**
-
-**The Observer:** The Observer is responsible for monitoring the operational area to ensure that there are no hazards that may endanger the flight or people who are not part of the UAS flight operations team. The Observer is the only member of the team who can speak to the PIC during flight operations. The Observer is to alert the PIC immediately if any aircraft come into the area, or if any person or vehicle comes near the operation. The Observer must remain within speaking distance of the PIC. Do not use radios to communicate. 
-
-**The Journalist:** The Journalist is responsible for communicating flight goals to the PIC before flight and verifying results after landing. The Journalist determines what is needed for the story and communicates that to the PIC. The PIC is responsible for determining whether meeting the Journalist's goals are possible under the conditions presented.  During flight, the PIC may ask for feedback from the Journalist, but the Journalist should only speak to the pilot if asked. The Journalist can act as Observer.
-
-Under Part 107, operations can occur with only a PIC. If no additional personnel are available for the flight, care and consideration must be taken for the additional workload that the PIC will take on, including having to watch the operation area for hazards, completing journalistic goals and ensuring flight safety. 
-
-**NOTE: The greater the number of environmental variables (bystanders, structures, trees, wind, etc.) in an operating environment, the more substantial the demands are on the PIC.**
-
-##Ethics and Privacy
+# Ethics and Privacy
 
 UAS enable individuals to remotely access spaces and vantage points that may, for many reasons, be otherwise out of reach. Avoid actions in the air that you yourself would not engage in on the ground. 
 
 Consider referring to the [SPJ Code of Ethics](http://www.spj.org/ethicscode.asp), especially the principles about minimizing harm, such as the ones seen below, which are relevant to UAS operations: 
 
-* "Balance the public’s need for information against potential harm or discomfort. Pursuit of the news is not a license for arrogance or undue intrusiveness." While Part 107 prohibits flights over people it doesn't stop you from flying near them laterally. Be mindful of bystanders and consider their perceptions of drones, and what you're doing in the air with a UAS. Remember: They don't know what you are going to do with a device that makes many uncomfortable. Don't deliberately fly over private property if publicly accessible views are available. Don't use a drone to antagonize.
+* "Balance the public’s need for information against potential harm or discomfort. Pursuit of the news is not a license for arrogance or undue intrusiveness." 
+
+> While Part 107 prohibits flights over people it doesn't stop you from flying near them laterally. Be mindful of bystanders and consider their perceptions of drones, and what you're doing in the air with a UAS. Remember: They don't know what you are going to do with a device that makes many uncomfortable. Don't deliberately fly over private property if publicly accessible views are available. Don't use a drone to antagonize.
 
 * "Show compassion for those who may be affected by news coverage. Realize that private people have a greater right to control information about themselves than public figures and others who seek power, influence or attention. Weigh the consequences of publishing or broadcasting personal information. Avoid pandering to lurid curiosity, even if others do." 
-In short, respect people's privacy, and don't use a UAS as a tool for intrusion. Don't fly up to people's windows, and seek permission to fly over private property where practical. While there has been extensive speculation about how high above the ground private property extends, there is currently no clear legal precedent indicating where private property ends and public airspace, in the context of drones, begins. Until a legal standard is set, all due caution should be exercised.
+
+> In short, respect people's privacy, and don't use a UAS as a tool for intrusion. Don't fly up to people's windows. Seek permission to fly over private property where practical. While there has been extensive speculation about how high above the ground private property extends, there is currently no clear legal precedent indicating where private property ends and public airspace begins, in the context of drones. Until a legal standard is set, all due caution should be exercised.
+
+<!--BREAK-->
 
 Also, consider referring to the [National Press Photographers Association Code of Ethics](https://nppa.org/code_of_ethics), including the following standards:
 
-* "Do not intentionally sabotage the efforts of other journalists." When covering a news event along with other media organizations flying UASs, avoid using your UAS to obstruct or take down another UAS. Doing so could not only hurt bystanders and damage property, but also require a report to the FAA, jeopardizing your Part 107 certification. Media using UAS should coordinate with each other, just as manned helicopter pilots have done since the 1950s. 
+* "Do not intentionally sabotage the efforts of other journalists." 
 
-* "While photographing subjects do not intentionally contribute to, alter, or seek to alter or influence events." UAS systems, especially multirotors, are loud. Consider how the noise generated by your UAS, and its presence, influences events, people, and animals.
+> When covering a news event along with other media organizations flying UASs, avoid using your UAS to obstruct or take down another UAS. Doing so could not only hurt bystanders and damage property, but also require a report to the FAA, jeopardizing your Part 107 certification. Media using UAS should coordinate with each other, just as manned helicopter pilots have done since the 1950s. 
+
+* "While photographing subjects do not intentionally contribute to, alter, or seek to alter or influence events." 
+
+> UAS systems, especially multirotors, are loud. Consider how the noise generated by your UAS, and its presence, influences events, people, and animals.
+
+Part of the operating procedures for planning a flight will be considering any privacy and ethical concerns that may arise during a mission and how to mitigate them. All people involved in a mission have a responsibility to consider, discuss, and mitigate these issues.
 
 <div style="page-break-after: always;"></div>
-##General Operating Procedures
+
+# FAA Regulations
+
+Commercial drone use is regulated by the FAA under Part 107 of the Federal Aviation Regulations. The Pilot In Command is responsible for complying with all regulations to operate legally and safely.
+
+<div style="page-break-after: always;"></div>
+
+# General Operating Procedures
 
 A professional UAS operation is one that involves careful planning and forethought. Before embarking on using drones to do journalism, pilots and organizations should take several steps. First and foremost, the pilot should practice with the drone to be used. Your first flight with the drone should not be for a story. Familiarization with the platform is essential. News organizations wanting to use drones should speak with local police and fire departments well before news breaks, alerting them of future news-gathering using drones.
 
-The general operating procedures for drone flights are divided into sections: Pre-trip, Pre-flight, Flight, and Post-flight. The general requirements in each are encapsulated in checklists designed to help ensure each step is accomplished. The sections, and the reasoning behind them, are described here:
+<div style="page-break-after: always;"></div>
 
-###Pre-Trip
+## Why?
 
-Prior to embarking on any drone operation, the pilot in command must gather information about the proposed flight area to ensure safe operations that comply with Federal Aviation Regulations. 
+Let's begin with answering the most important question: Why are we doing all this? What's the benefit?
 
-####Location
+A drone is a tool. Like any other tool it will help us do things we couldn't easily do before. A drone can help us get a new perspective on a story, and bring that understanding to readers and listeners.
+
+There are a few basic categories drone use can fall into. This list is not comprehensive:
+
+* Aestheic perspective — Using a different camera angle can help better tell the story.
+* See the scale — A different angle not just to add visual interest, but to show the scope or context of something.
+* See hard-to-see things — There are things we can't easily see from the ground, or places we can't easily go. There are privacy and ethical issues to consider here, certainly.
+* Explain using maps — we can use drone imagery to create up-to-date maps in a specific location, to a specific scale.
+* Explain using graphics — we can augment graphics with imagery or data from the drone.
+* Gather some data — we can use the drone to capture data, whether that be visual data from the camera, or other kinds of data from other sensors.
+
+Responsible use of this versatile tool will help us tell better stories, or tell stories better. 
+
+<div style="page-break-after: always;"></div>
+
+## Who
+
+### Defining roles
+
+The four flight operations roles defined in the Drone Operations Manual are: Pilot In Command (PIC), Observer, Photojournalist and Journalist. One individual can fill several or all four roles, which we define as:
+
+#### The Pilot In Command
+
+The PIC is responsible for all flight operations. It is the PIC who has the ultimate authority on any flight. The PIC determines whether the aircraft is airworthy and capable of conducting the proposed operations. The PIC is responsible for determining whether the airspace allows the proposed operation. The PIC is responsible for conducting operations within all FAA regulations and any restrictions set forth by a grant of exemption. The PIC is responsible for briefing the other members of the flight crew about what the mission is, what their roles and responsibilities are, and what is expected of them before, during, and after flight operations. 
+
+**NOTE: The Pilot In Command, the one holding the FAA-issued Part 107 certificate, is by regulation the final authority on whether the aircraft flies or not. If an accident occurs, it is the Part 107 certificate holder who will be held responsible. As such, news managers must accept the Pilot In Command's decision about flight safety as final.**
+
+#### The Observer
+
+The Observer is responsible for monitoring the operational area to ensure that there are no hazards that may endanger the flight or people who are not part of the UAS flight operations team. The Observer is the only member of the team who can speak to the PIC during flight operations. The Observer is to alert the PIC immediately if any aircraft come into the area, or if any person or vehicle comes near the operation. The Observer must remain within speaking distance of the PIC. Do not use radios to communicate.
+
+#### The Photojournalist
+
+If part of the operation involves capturing photos or video, the Photojournalist is responsible for operating the camera attached to the aircraft during flight. The Photojournalist determines what visuals are needed and communicates that to the PIC prior to the flight. The PIC is responsible for determining whether meeting the Photojournalist's goals are possible under the conditions presented. During flight, the PIC may ask for feedback from the Photojournalist, but the Photojournalist should only speak to the PIC if asked. 
+
+**NOTE: Because the Photojournalist will be focusing on operating the camera rather than watching the aircraft, the sky, and the surrounding area, the Photojournalist may not act as Observer**. (The exception to this is if the PIC is also serving as the Observer and the Photojournalist.)
+
+<!--BREAK-->
+
+#### The Journalist
+
+The Journalist is responsible for communicating flight goals to the PIC and Photojournalist before flight and verifying results after landing. The Journalist determines what is needed for the story and communicates that to the PIC and Photojournalist. The PIC is responsible for determining whether meeting the Journalist's goals are possible under the conditions presented.  During flight, the PIC may ask for feedback from the Journalist, but the Journalist should only speak to the PIC if asked. The Journalist and the Photojournalist can speak freely, but should always be listening for the PIC. The Journalist can act as Observer.
+
+---
+
+Under Part 107, operations can occur with only a PIC. If no additional personnel are available for the flight, care and consideration must be taken for the additional workload that the PIC will take on, including having to watch the operation area for hazards, completing journalistic goals and ensuring flight safety. 
+
+**NOTE: The greater the number of environmental variables (bystanders, structures, trees, wind, etc.) in an operating environment, the more substantial the demands are on the PIC.**
+
+<div style="page-break-after: always;"></div>
+
+### Training
+
+Training is an important part of maintaining safe operating procedures. It is the responsibility of the PIC to conduct drone journalism work safely, and so it is the PIC's responsibility to ensure all members of the flight crew are adequately trained. The PIC should take into account the training and experience levels of the crew, as well as the PIC's own level of training and experience when planning and executing a mission.
+
+Regardless of training and experience, all members of the flight crew must be briefed by the PIC before each flight both to reiterate the general responsibilities of each member as well as to cover flight-specific information.
+
+#### Operators
+
+A Part 107-licensed PIC must be present for all flights, and, if not operating the controls, be able to immediately take over the controls. Per Part 107, non-licensed operators are permitted as long as the PIC is able to take over the controls immediately.
+
+Anyone operating the controls should be trained by the PIC or be able to show they have been trained elsewhere.
+
+The PIC's decision about who may operate the UAS is final.
+
+#### Observers
+
+Observers should be trained by a PIC prior to serving as an Observer on a story.
+
+#### Photojournalists
+
+If a UAS has dual-operator capability, the Photojournalist operating the camera should be trained on it prior to serving as the Photojournalist on a story.
+
+<div style="page-break-after: always;"></div>
+
+## What
+
+Our drone is a DJI Inspire 2. Some basic stats:
+
+|                         | Inspire 2 |
+| ----------------------- | --------- |
+| Max Speed               | 58 mph    |
+| Flight Time             | 27 min    |
+| Operating Temp          | -4°/104°F |
+| Wind resistance         | 22 mph    |
+| Upgradeable camera      | yes       |
+| Dual-controller enabled | yes       |
+
+The drone is equipped with a Zenmuse X4S camera. The camera can shoot 20 megapixel still images and 4K video at 60 FPS.
+
+The drone is dual-controller enabled. As mentioned in the _who_ section, this enables a Photojournalist to operate the camera independently of the PIC.
+
+While the operating temperatures and wind resistance are limits, the drone may experience degraded performance before reaching these conditions. It is the PIC's responsibility to determine when it is safe to fly.
+
+<div style="page-break-after: always;"></div>
+
+## Where and When
+
+FAA regulations impose a number of restrictions on where, when and how drones may operate. This is a summary. The PIC is responsible for knowing all regulations and ensuring they are complied with.
+
+* Sunrise to sunset only. Civil twilight (30 minutes before sunrise to 30 minutes after sunset) with appropriate illumination.
+* 3 or more statute miles of visibility at your location.
+* Unaided visual-line-of-sight (VLOS) only. The PIC must be able to see the drone without the use of cameras or binoculars.
+* No flight over unsheltered people.
+* Maximum altitude is 400 feet above ground level (AGL). Flying near a building or tower allows a higher ceiling.
+* No flying while flying (or riding, sometimes). Flying a drone while the PIC is in an aircraft is prohibited. Flying a drone while the PIC is in a land vehicle or boat is acceptable in "sparsely populated" areas.
+* No flying near clouds. The drone must be 500 feet below clouds and 2,000 feet away horizontally.
+* Yield the right of way. Drones must yield to all other aircraft and are not allowed to interfere with the operation of another aircraft.
+
+### Controlled airspace
+
+Operation in controlled airspace is prohibited without prior permission. There is controlled airspace around Lambert, Spirit of St. Louis, Cahokia (St. Louis Downtown), Belleville and Alton airports.
+
+There are other areas of prohibited airspace in our area as well, like the Arch grounds and Scott Air Force Base.
+
+### Temporary Flight Restrictions (TFRs)
+
+The FAA will issue Temporary Flight Restrictions from time to time. There will be a TFR in place over Busch Stadium during Cardinals home games. It is the PIC's responsibility to be aware of active TFRs.
+
+<div style="page-break-after: always;"></div>
+
+## How
+
+How will all this work in the newsroom? The procedures for drone flights are divided into the following sections: 
+
+* Story Planning — What is the story and why are we using the drone to cover it?
+* Flight Planning — What conditions might we encounter during the flight?
+* Pre-trip — Is all equipment prepared for the flight? All crew properly briefed?
+* Pre-flight — Is the location as expected? Is the equipment operating properly?
+* Flight — What happens during the operation itself?
+* Post-flight — Did the equipment perform as expected?
+* Post-trip — Was the mission completed as expected? Does any equipment need to be checked, repaired or replaced? Complete logs.
+* Post-Story — Was the story as expected? Did the use of the UAS serve its intended purpose? Was it worth the investment?
+
+The general requirements in each section are encapsulated in checklists designed to help ensure each step is accomplished. The mission planning sheets are available in the index.
+
+Aside from "Flight", each section has a sheet that must be filled out and kept in the UAS Logbook.
+
+### Starting the process
+
+To get started planning a drone story, fill out a story planning worksheet and talk to Brent.
+
+### Story Planning
+
+Before bringing a UAS into an environment, the Journalist (and if appropriate the Photojournalist) should define the goals of the UAS flight before doing more specific mission planning.
+
+First, the basics: Date and time to fly, and whether those are flexible; the location; and the end product being sought through the use of the drone (photos, video, other).
+
+Then, consider:
+
+* What's the story we're aiming to cover?
+* What purpose is the drone serving in your story?
+* What context is the drone adding to your story?
+* Be specific. What shots do you need? 
+* How much drone video or photography do you need to tell the story?
+* What privacy issues can you anticipate and what steps have you taken to mitigate them?
+* What ethical issues can you anticipate and what steps have you taken to mitigate them?
+
+<div style="page-break-after: always;"></div>
+
+### Flight Planning
+
+Prior to embarking on any drone operation, the PIC must gather information about the proposed flight area to ensure safe operations that comply with Federal Aviation Regulations. The PIC may need input from the Journalist to help answer these.
+
+#### Location
 
 Questions the PIC must answer about the location are:
 
-* What is there? Are there hazards to aviation?   
+* What is the exact location?
+* What's the altitude of the location? How might it affect your UAS and payload during flight?
+* Have you reviewed current aviation charts of the location and surroundings?
 * What airspace is it in? 
-* Do you need permission from air traffic control (ATC)?
+* Are there any airspace/TFR/NOTAM restrictions in place or anticipated?
+* Do you need permission from air traffic control (ATC) or an FAA waiver?
+* Have you pulled publicly available aerial images of the area or conducted a site survey?
 * Are you flying on or over private property? Do you have permission of the landowner to operate there?
+* What is there? Are there hazards to aviation?   
 * How many people can you expect around the area?
 * What is your plan to prevent flight over people?
-* Have you pulled publicly available aerial images of the area or conducted a site survey?
 * What will the weather be? Have you consulted an aviation weather forecast? Or if the trip is immediate, have you consulted local weather sources, such as an aviation weather report (METAR), or obtained a flight briefing from Flight Services?
 * Are your weather parameters within Part 107 minimums? 
 * Are wind levels below the operational maximums set by the manufacturer or by your own operational guidelines?
-* What's the altitude of the location? How might it affect your UAS and payload during flight?
-* Have you factored in the effects of temperature on the batteries? 
+* Have you factored in the effects of temperature on the batteries?
 
-####Defining Operational Goals
+<div style="page-break-after: always;"></div>
 
-Before bringing a UAS into an environment, operational personnel should define the goals of the UAS flight before leaving for the location.
+### Pre-Trip
 
-* Be specific. What shots do you need? 
-* What purpose is the drone serving in your story?
-* What context is the drone adding to your story?
-* How much drone video or photography do you need to tell the story?
-* What privacy issues can you anticipate and what steps have you taken to mitigate them?
-* What ethical issues can you anticipate and what steps have you taken to mitigate them? 
+Immediately before leaving, the PIC should complete the pre-trip checklist. This includes basic information, a drone check, info check, packing list and briefing.
 
-####Logistics
+#### Basic information
 
-Before leaving for the operational area, consider what equipment you will need, and check the status of your equipment.
-
+* Who is serving on the flight crew for this mission?
 * When do you need to be at the location?
 * How much travel time is involved?
-* Have you built in time for a walkthrough of the location to note any hazards only visible on site?
-* Do you have sufficient batteries to accomplish the task?
-* Are they charged?
 
-####Briefing
+#### Drone check
 
-The PIC is responsible for briefing all operations personnel on each phase of flight. The PIC will designate the observer and the journalist, will explain their roles and what will happen during flight. 
+Before leaving for the operations area, the PIC should conduct a pre-trip inspection of the UAS and other equipment. A pre-trip inspection includes charging batteries, checking various mounting hardware, and checking the camera and storage media to ensure it is sufficient for the task. 
+
+* Are batteries charged (drone, controllers, iPads, aviation radio)?
+* Inspect drone and correct any issues found
+* Ensure memory card is emptied
+
+#### Information check
+
+The PIC must review up-to-date important information before each flight.
+
+* Check airspace map
+* Check NOTAMs
+* Check TFRs
+* Check weather
+
+#### Packing list
+
+The PIC must ensure all equipment is properly packed for transport to the location.
+
+<!--BREAK-->
+
+#### Briefing
+
+The PIC is responsible for briefing all operations personnel on each phase of flight. The PIC will designate the observer, the photojournalist and the journalist, will explain their roles and what will happen during flight. 
 
 A PIC briefing should cover, at a minimum:
 
-* Who is fulfilling each role in flight operations.
-* The expectations of each member of the flight crew.
+* Who is fulfilling each role in flight operations
+* The expectations of each member of the flight crew
 * A general description of the operations area.
-* The expected weather at the location.
-* Any known hazards, including winds, obstacles, known high traffic areas, any nearby airports or expected air traffic.
-* The specific mission goals, including expected shots, angles or subjects.
-* Any known privacy or ethical issues and mitigation steps. 
+* The expected weather at the location
+* Any known hazards, including winds, obstacles, known high traffic areas, any nearby airports or expected air traffic
+* The specific mission goals, including expected shots, angles or subjects
+* Any known privacy or ethical issues and mitigation steps
+* Pre-flight rules
+* Flight rules
+* Post-flight rules
 
-####Pre-Trip Inspection
+<div style="page-break-after: always;"></div>
 
-Before leaving for the operations area, the PIC should conduct a pre-trip inspection of the UAS. A pre-trip inspection includes charging batteries, checking various mounting hardware, and checking the camera and storage media to ensure it is sufficient for the task. 
-
-##Pre-Flight
+### Pre-Flight
 
 Pre-flight operations are done immediately before any flight work is to occur. The pre-flight checklist repeats some of the pre-trip checklist, such as inspecting the aircraft and some of the control surfaces. Pre-trip and pre-flight inspections help ensure airworthiness and will serve as an early warning for both maintenance issues and for mechanical issues that could substantially affect or cancel flight operations.
 
@@ -131,10 +319,13 @@ The general rules of pre-flight are:
 * When on site, if non-operations people are around, operations personnel may be required to secure an area to be kept free of people so the UAS can operate without flying over people. That place may be the takeoff and landing zone. That space, to remain free of people, should be as large as the PIC thinks is practical. 
 * Weather can be very localized. When you arrive, you should check your location weather against the weather report you got from a flight briefing or automated observation service. Cloud ceilings will be most difficult to estimate on site, so be reasonable. If the clouds look low, stay low. Don't fly if fog is present.
 * Wind conditions also vary by location. An anemometer is a valuable tool for measuring wind on site, informing the PIC if wind speeds are within operational limits and how they may affect flight operations. 
-* Turn off WiFi connectivity on any UAS mounted devices, such as cameras. Active WiFi devices on the UAS can interfere with critical 2.4 GHz RC and video transmissions. Because most non-military UAS systems use 2.4GHz for either RC or video transmission, only enable WiFi if you are certain there will be no interference with your UAS hardware.
+* Turn off WiFi connectivity on any UAS mounted devices, such as cameras. Active WiFi devices on the UAS can interfere with critical remote control and video transmissions. Because most non-military UAS systems use 2.4GHz for either RC or video transmission, only enable WiFi if you are certain there will be no interference with your UAS hardware.
 * Before takeoff, make sure your compass is not receiving interference from nearby metal objects, and that you have enough GPS satellite connections.
+* After power up and takeoff, perform final control and telemetry checks at low hover before beginning mission.
 
-##Flight
+<div style="page-break-after: always;"></div>
+
+### Flight
 
 The flight checklist isn't really a checklist. It's a Do Constantly list. It's listed as a reminder. UAS operators must:
 
@@ -143,125 +334,162 @@ The flight checklist isn't really a checklist. It's a Do Constantly list. It's l
 * Be constantly checking battery levels and returning before reaching 25 percent of the remaining capacity. 
 * Be constantly checking flight parameters like altitude to ensure they remain within restrictions and operational goals.
 
-At battery changes, and at battery changes only, should the PIC, Observer and Journalist discuss changes to the operational plan. While the UAS is in flight, the PIC needs to focus on flying, and the observer needs to focus on hazards.
+At battery changes, and at battery changes only, should the PIC, Observer, Photojournalist and Journalist discuss changes to the operational plan. While the UAS is in flight, the PIC needs to focus on flying, and the observer needs to focus on hazards.
 
-##Post-Flight
+<!--BREAK-->
 
-The post-flight checklist is broken into three parts: Shutting down the drone, which is done by the PIC; inspecting the aircraft; and filling out logs. Logging is an important part of aviation safety and will serve as an important document in maintenance of your UAS.
+### Post-Flight
 
-##Logging
+The post-flight checklist is broken into three parts: Shutting down the drone, which is done by the PIC; inspecting the aircraft; and collecting information to enter into the logs. Logging is an important part of aviation safety and will serve as an important document in maintenance of your UAS.
 
-UAS operations can be divided into three separate logs, largely transported over from manned aviation. They are a maintenance log, a battery log, and a flight log. 
+### Post-Trip
 
-####Maintenance Log
+The post-trip checklist is also broken into three parts.
+
+#### Logging and equipment checklist
+
+Logging flight and battery information is essential to spotting problems with the drone before — rather than during — a flight. This section also includes information about collecting data from the memory card and camera maintenance.
+
+#### Equipment condition checklist
+
+This section is a status check for all equipment used, to determine whether it's in good shape, may require extra attention, or needs repair or replacement.
+
+#### Mission summary
+
+This section serves as a short summary of the mission, with space to note any adverse conditions or incidents.
+
+### Post-Story
+
+This section serves as a check on the use of the drone:
+
+* Did it serve its purpose?
+* Was it worth the time/energy?
+* Was the outcome appropriately promoted?
+* How can we improve the process?
+
+<div style="page-break-after: always;"></div>
+
+# Appendix
+
+## Logging
+
+UAS operations can be divided into three separate logs, largely transported over from manned aviation. They are a maintenance log, a battery log, and a flight log. The log sheets are available in the appendix.
+
+### Maintenance Log
 
 A maintenance log is a simple list of issues to be checked or fixed between flights. PICs should note any issue that should be checked, from an odd wobble, unusual sound, an unusually hot motor at landing, to a complete component failure. The log should include the date, UAS Make & Model, UAS Registration Number, the ID number of the battery used when the issue occurred, the issue, who reported it, the date repaired, who repaired it and notes.
 
-####Battery Log
+### Battery Log
 
-A battery log serves as a warning for when a battery is getting worn out and could fail. UAS batteries will degrade, providing progressively less flight time. Fully charged batteries that go unused and are not discharged for over a week can also lead to damaged battery cells. A battery log will highlight failing batteries, and give the PIC a guide as to how much time a battery will give in flight. A battery log should note the date, UAS make and model, UAS registration number, the number of past charges, the percentage of battery power remaining at shutdown, total flight time, battery depletion rate, any signs of puffing (an indicator that the battery is damaged), and usage conditions. For example, if you loaded a DJI Inspire with a 360 video camera rig containing six GoPros cameras, and flew it on a 100°F, you would make note of those operating conditions.
+A battery log serves as a warning for when a battery is getting worn out and could fail. UAS batteries will degrade, providing progressively less flight time. Fully charged batteries that go unused and are not discharged for over a week can also lead to damaged battery cells. A battery log will highlight failing batteries, and give the PIC a guide as to how much time a battery will give in flight. A battery log should note the date, UAS make and model, UAS registration number, the number of past charges, the percentage of battery power remaining at shutdown, total flight time, battery depletion rate, any signs of puffing (an indicator that the battery is damaged), and usage conditions. For example, if you loaded a DJI Inspire with a 360 video camera rig containing six GoPros cameras, and flew it on a 100°F day, you would make note of those operating conditions.
 
-####Flight Log
+### Flight Log
 
-A flight log will highlight the important events that occur from the time a UAS takes off to the time it has landed and been powered down by the PIC. Each UAS will have it's own log. It should note the date, the battery used during flight, and the total flight time. Each entry should also have space for important and relevant notes about the flight, which may include a mission overview, flying conditions, distance flown, take-off and landing locations, a hard landing, etc.
-
-<div style="page-break-after: always;"></div>
-##Normal Operating Checklists##
-
-What follows are the normal operating checklists to be completed for each flight.
+A flight log will highlight the important events that occur from the time a UAS takes off to the time it has landed and been powered down by the PIC. Each UAS will have its own log. It should note the date, the battery used during flight, and the total flight time. Each entry should also have space for important and relevant notes about the flight, which may include a mission overview, flying conditions, distance flown, take-off and landing locations, a hard landing, etc.
 
 <div style="page-break-after: always;"></div>
-####Pre-Trip Checklist 
-####Date: ______________________####
 
-Item|Action|Status|
-----|------|------|
-Batteries|Charge|  |
-Controller Batteries|Charge
-Propeller nuts|Check and tighten
-Landing strut screws|Check and tighten
-Motor mount screws|Check and tighten
-Gimbal wiring|Check and tighten
-Gimbal mount|Check and tighten
-Gimbal camera harness|Check and tighten
-Compass wiring|Check and reseat
-Airframe check|Inspect for damage
-Registration markings|Check for display
-Camera battery|Charge
-Camera memory card|Check and empty
-Mission planning meeting|Record goals of the flight
-Airspace check|Consult airspace map, NOTAMs, TFRs
-Airport check|Contact ATC, if needed
+## Briefing
+
+Below is sample language to use for the pre-flight briefing.
+
+### Intro
+
+Today we'll be flying at *location*. We'll be gathering *[photos|video|other]* of *[subject]*.
+
+### Roles
+
+We'll now review the roles and responsibilities of each role.
+
+I'll be the Pilot in Command for this flight. *[Person]* will be the Observer. *[Person]* will be the Photojournalist. *[Person]* will be the Journalist.
+
+The PIC is responsible for all flight operations and is the only person allowed to touch the drone. Please listen for communications from the PIC during the mission.
+
+The Observer is responsible for monitoring the area to ensure there are no hazards that may endanger the flight or people on the ground. The Observer is the only member of the team who can speak to the PIC during the flight. The Observer will alert the PIC immediately if any aircraft, person or vehicle comes near the operation. The Observer will remain within speaking distance of the PIC.
+
+The Photojournalist is responsible for operating the camera. The Photojournalist will determine what visuals are needed and communicate that to the PIC prior to the flight. During the flight, the PIC may ask for feedback from the Photojournalist, but the Photojournalist should only speak to the PIC if asked.
+
+The Journalist is responsible for communicating flight goals to the PIC and Photojournalist before flight and verifying results after landing. During flight, the PIC may ask for feedback from the Journalist, but the Journalist should only speak to the PIC if asked.
+
+The Observer, Photojournalist and Journalist can speak freely among each other, but should always be listening for the PIC.
+
+### Location
+
+The area where we'll be operating today is *[general description of area]*. Some things to be aware of regarding the location are:
+
+*[Review known or anticipated hazards, potential for air traffic and potential for human traffic.]*
+
+<!--BREAK-->
+
+### Weather
+
+The weather for the flight today is forecast to be *[great|good|fair|poor]* with a temperature of *[temp]*, winds of *[windspeed, direction, gusts]*, clouds at *[ceiling]* and *[chance of precipitation]*.
+
+Anticipated weather hazards are *[potential hazards]*.
+
+### Specific mission goals
+
+The specific goals for this mission are:
+
+*[List goals, such as specific shots or images to acquire, data to collect, etc.]*
+
+We can anticipate this might take *[number of expected flights/battery changes]* flights.
+
+### Ethical and privacy concerns
+
+Some ethical and privacy concerns that have been raised regarding this flight are *[review concerns]*.
+
+Our plans to mitigate those are *[review plans]*.
+
+### Rules
+
+We'll now review rules for pre-flight, flight and post-flight.
+
+#### Pre-flight
+
+Upon arrival, the PIC will complete the pre-flight checklist. This includes the following:
+
+The PIC will check the weather, review the site for hazards and select a takeoff and landing area. The PIC will conduct a final pre-flight meeting to review mission goals. 
+
+The PIC will conduct a final airworthines check of the drone. Do not approach or touch the drone unless asked by the PIC.
+
+All personnel will leave the launch area, staying at least 15 feet from the drone. The PIC and Observer will conduct an all-clear check of the operations area. After power-up, the PIC will conduct a final pre-mission check of the drone as it is operating.
+
+The PIC will communicate start of mission.
+
+<!--BREAK-->
+
+#### Flight
+
+**While the drone is in flight, the PIC needs to focus on flying and the Observer needs to focus on hazards. Safety is the number one priority.**
+
+During flight, the Observer is the only person allowed to speak to the PIC. The Photojournalist and Journalist should only speak to the PIC if asked.
+
+During flight, the PIC and Observer will constantly scan for airborne traffic or obstacles. The Observer will report any to the PIC immediately.
+
+The Observer will constantly scan for people on the ground in the flight area and report to the PIC immediately.
+
+The PIC will constantly check battery levels and other flight parameters and return to home when necessary.
+
+The PIC will communicate any emergency situations.
+
+At battery changes, and battery changes only, the PIC, Observer, Photojournalist and Journalist may discuss changes to the operational plan.
+
+#### Post-flight
+
+After flying, the PIC will complete the post-flight checklist. This includes the following:
+
+The PIC will log the battery percentage. The PIC will remove the batteries from the drone. Do not approach or touch the drone unless asked by the PIC.
+
+The Photojournalist and Journalist will review captured images or video.
+
+The PIC will inspect and pack the drone and accessories.
+
 <div style="page-break-after: always;"></div>
-####Pre-Flight Checklist 
-####Date: ______________________####
-Item|Action|Status|
-----|------|------|
-Weather|Check location conditions against weather reports|  |
-Wind conditions|Measure at location, check operation maximums|  |
-Flight area|Visually inspect for hazards, note, and report
-Takeoff/landing area|Delineate and clear of debris
-Operations area|Delineate > 15 feet from takeoff area
-Flight area|If needed, secure flight area to be kept free from people to ensure safety
-Pre-flight meeting|Review goals
-WiFi|Turn off WiFi connectivity on any UAS mounted device, including cameras 
-Airworthiness check|Visually inspect aircraft|  |
-Airworthiness check|Visually inspect control surfaces and linkages
-Airworthiness check|Inspect props for balance, damage
-<div style="page-break-after: always;"></div>
-####Pre-Flight Checklist Continued
-Item|Action|Status|
-----|------|------|
-Airworthiness check|Check camera/gimbal security
-Airworthiness check|Verify controller batteries
-Airworthiness check|Verify controller is on
-Airworthiness check|Verify UAS battery
-Airworthiness check|Verify UAS battery is on
-Airworthiness check|Verify display panel working properly
-Airworthiness check|Calibrate compass, if necessary
-Airworthiness check|Check navigation and telemetry connection
-Non-PIC personnel|Leave takeoff area, if present
-PIC|Leave takeoff area before launch
-Video monitor|Check wireless connection
-All clear check|Check takeoff area, airspace, flight area
-Power up|Unlock motors, increase throttle
-Final pre-mission check|At low hover, check telemetry status
-Final pre-mission check|At low hover, check prop balance and controls
-<div style="page-break-after: always;"></div>
-####Flight Checklist 
 
-####Date: ______________________####
+## Emergency Procedures
 
-Item|Action|Status|
-----|------|------|
-Airborne hazard check|Observer reports immediately (Over-communicate)|  |
-Ground hazard check|Observer reports immediately
-Battery check| PIC monitors battery levels frequently
-Flight parameter check|PIC evaluates altitude
-Low battery alert|Return to landing area
-Battery change|Pilot in command changes the battery
-Battery change meeting|Evaluate mission goals
-<div style="page-break-after: always;"></div>
-####Post-Flight Checklist. 
-
-####Date: ______________________####
-
-Item|Action|Status|
-----|------|------|
-Battery removal|Pilot in command removes the battery|  |
-Controller|Turn off after battery removal
-Motor check| Touch motors to check for overheating  
-Camera|Turn off if required  
-Memory card|Remove from camera
-Propellers|Visual inspection, log changes
-Landing struts|Visual inspection, log changes
-Gimbal|Visual inspection, log changes
-Housing|Return UAS to case after inspection
-Flight log|Update flight log
-<div style="page-break-after: always;"></div>
-##Emergency Procedures##
-
-####Lost Link/Mission Procedures####
+### Lost Link/Mission Procedures
 
 **General Operational Guidelines**: The RC link is for the PIC to directly control the aircraft. If the PIC enables the UAS to operate autonomously and automated flight functionality is lost, the drone will revert to RC control and the PIC will take over flight, return it to the landing zone and land. If the UAS starts showing any sign of not following the automated flight path, and the manual override doesn't happen automatically, the PIC should take the steps necessary for manual control. Check your UAS manual for how to manually override autonomous operation. If the RC link is lost, many commercial based UAS systems are configured with an automatic return to home procedure built-in to the UAS flight controller to prevent drift outside of the operation area. 
 
@@ -275,7 +503,7 @@ PIC|PIC assumes control via RC, if possible
 Observer|Observer notifies other operations personnel
 PIC|Returns UAS to pre-determined landing area as safely practical
 PIC|Land UAS
-<div style="page-break-after: always;"></div>
+
 **Lost RC Control Procedure Checklist**
 
 Actor|Action
@@ -290,8 +518,10 @@ PIC|If positive control does not return, PIC alerts Observer
 PIC|Verifies that Return to Home function has engaged
 PIC/Observer|Verifies that landing area is clear, clear if necessary
 PIC|Upon UAS landing PIC turns off battery immediately 
+
 <div style="page-break-after: always;"></div>
-####Emergency Assumption of Control####
+
+### Emergency Assumption of Control
 
 During any automated flight, if there is any concern that the UAS is not flying the planned mission or that control characteristics are abnormal, the PIC will take manual control of the UAS with RC control, return it to the landing zone if possible, and land it. There may be minor problems that do not require emergency assumption of control. In these cases, the GCS communication can direct the UAS to land or the PIC can manually land the UAS.
 
@@ -305,8 +535,10 @@ Observer|Verbally notifies other operations personnel
 PIC|Assumes control of UAS using RC
 PIC|If necessary, begin emergency landing at a safe location
 PIC|If practical, return UAS to pre-determined landing zone, execute landing
+
 <div style="page-break-after: always;"></div>
-####Loss of Sight####
+
+### Loss of Sight
 
 Regulations require that the UAS remain within Visual Line of Sight(VLOS) at all times. If, that VLOS is broken, the PIC should return to VLOS immediately if possible. If PIC cannot return UAS to VLOS, using the GCS, the PIC should execute a preprogrammed flight path to return to the landing zone.
 
@@ -322,8 +554,10 @@ PIC|If course reversal is not possible, execute return to home procedure via RC 
 PIC|Report when UAS is in VLOS
 Observer|Report when UAS is in VLOS
 PIC|Post flight, record conditions that led to loss of VLOS
+
 <div style="page-break-after: always;"></div>
-####Other In-Flight Emergencies####
+
+### Other In-Flight Emergencies
 
 In most emergency situations, the general protocol is to land as soon as is safely practical. In many emergency situations, landing at the pre-determined landing zone will not be possible. The goal is a controlled, safe landing.
 
@@ -346,46 +580,45 @@ Observer|Alert others to emergency situation
 PIC|Post flight, record details of flight for report
 
 <div style="page-break-after: always;"></div>
-##Glossary##
 
-AGL - Above Ground Level. 
+## Glossary
 
-GCS - Ground Control Station.
+**Above Ground Level (AGL)** - Reported in feet, the height above the ground. Part 107 allows flight up to 400 feet AGL in most circumstances.
 
-Journalist (as defined in this manual) - Responsible for communicating flight goals to the PIC before flight and verifying results after landing.
+**Air Traffic Control (ATC)** - The controlling authority for an airspace, often based at a nearby airport.
 
-NOTAM - Notice to Airmen. A notice released by an aviation authority to alert PICs of potential hazards on a flight route, or at a location that could affect the safety of the flight.
+**Briefing** - The Pilot In Command is responsible for briefing the members of the operation before each flight.
 
-Observer (as defined in this manual) - Responsible for monitoring the operational area to ensure that there are no hazards that may endanger the flight or people not part of the UAS flight operation team.
+**Civil Twilight** - 30 minutes before sunrise, 30 minutes after sunset. May only operate then with appropriate illumination.
 
-PIC - Pilot In Command. Responsible for all flight operations.
+**Controlled airspace** - Class A, B, C, D, or E airspace, usually found near airports. Part 107 does not allow operations in controlled airspace without prior permission.
 
-UAS - Unmanned Aerial System.
+**Drone** - aka UAS. Ours is a DJI Inspire 2.
 
-METAR - Aviation Weather Report.
+**Federal Aviation Administration (FAA)** - The regulating authority on aircraft in the United States.
 
-VLOS - Visual line of sight. Part 107 requires PICs to fly their UAS within visual line of sight. Binoculars and other devices to extend vision are not allowed.
+**Ground Control Station (GCS)** - The device controlling operation of the drone.
 
+**Journalist** (as defined in this manual) - Responsible for communicating flight goals to the PIC before flight and verifying results after landing.
 
+**METAR** - Aviation weather report.
 
+**Notice to Airmen (NOTAM)** - A notice released by an aviation authority to alert PICs of potential hazards on a flight route, or at a location that could affect the safety of the flight.
 
+**Observer** (as defined in this manual) - Responsible for monitoring the operational area to ensure that there are no hazards that may endanger the flight or people not part of the UAS flight operation team.
 
+**Operator** - The person physically operating the drone. May be the Pilot In Command. Another trained person may operate the drone, provided the Pilot In Command is immediately able to take control.
 
+**Part 107** - Part 107 of the Federal Aviation Regulations. This regulates use of unmanned aircraft.
 
+**Photojournalist** (as defined in this manual) - Responsible for communicating visual goals to the PIC and operating the camera during flight.
 
+**Pilot In Command (PIC)** - The Pilot In Command is the person who holds the FAA Airman Certification. Responsible for all flight operations.
 
+**Temporary Flight Restrictions (TFRs)** - A notice from the FAA prohibiting flight in a certain area, temporarily. These are put in place around outdoor sporting events, and visiting dignitaries, among other situations.
 
+**Training** - The Pilot In Command is responsible for ensuring all members of the operation are adequately trained in their roles.
 
+**UAS** - Unmanned Aerial System, aka drone.
 
-
-
-
-
-
-
-
-
-
-
-
-
+**Unaided Visual Line of Sight (VLOS)** - The ability to see the drone with eyesight alone. Drones are required to be kept within unaided visual line of sight. Binoculars and other devices to extend vision are not allowed. Flying by using the drone's cameras is not allowed.
