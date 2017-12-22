@@ -103,13 +103,15 @@ The Observer is responsible for monitoring the operational area to ensure that t
 
 #### The Photojournalist
 
-If part of the operation involves capturing photos or video, the Photojournalist is responsible for operating the camera attached to the aircraft during flight. The Photojournalist determines what visuals are needed and communicates that to the PIC prior to the flight. The PIC is responsible for determining whether meeting the Photojournalist's goals are possible under the conditions presented. During flight, the PIC may ask for feedback from the Photojournalist, but the Photojournalist should only speak to the pilot if asked. 
+If part of the operation involves capturing photos or video, the Photojournalist is responsible for operating the camera attached to the aircraft during flight. The Photojournalist determines what visuals are needed and communicates that to the PIC prior to the flight. The PIC is responsible for determining whether meeting the Photojournalist's goals are possible under the conditions presented. During flight, the PIC may ask for feedback from the Photojournalist, but the Photojournalist should only speak to the PIC if asked. 
+
+**NOTE: Because the Photojournalist will be focusing on operating the camera rather than watching the aircraft, the sky, and the surrounding area, the Photojournalist may not act as Observer**. (The exception to this is if the PIC is also serving as the Observer and the Photojournalist.)
 
 <!--BREAK-->
 
 #### The Journalist
 
-The Journalist is responsible for communicating flight goals to the PIC and Photojournalist before flight and verifying results after landing. The Journalist determines what is needed for the story and communicates that to the PIC and Photojournalist. The PIC is responsible for determining whether meeting the Journalist's goals are possible under the conditions presented.  During flight, the PIC may ask for feedback from the Journalist, but the Journalist should only speak to the pilot if asked. The Journalist and the Photojournalist can speak freely, but should always be listening for the PIC. The Journalist can act as Observer.
+The Journalist is responsible for communicating flight goals to the PIC and Photojournalist before flight and verifying results after landing. The Journalist determines what is needed for the story and communicates that to the PIC and Photojournalist. The PIC is responsible for determining whether meeting the Journalist's goals are possible under the conditions presented.  During flight, the PIC may ask for feedback from the Journalist, but the Journalist should only speak to the PIC if asked. The Journalist and the Photojournalist can speak freely, but should always be listening for the PIC. The Journalist can act as Observer.
 
 ---
 
@@ -121,13 +123,13 @@ Under Part 107, operations can occur with only a PIC. If no additional personnel
 
 ### Training
 
-Training is an important part of maintaining safe operating procedures. It is the responsibility of the Pilot in Command to conduct drone journalism work safely, and so it is the PIC's responsibility to ensure all members of the flight crew are adequately trained. The PIC should take into account the training and experience levels of the crew, as well as the PIC's own level of training and experience when planning and executing a mission.
+Training is an important part of maintaining safe operating procedures. It is the responsibility of the PIC to conduct drone journalism work safely, and so it is the PIC's responsibility to ensure all members of the flight crew are adequately trained. The PIC should take into account the training and experience levels of the crew, as well as the PIC's own level of training and experience when planning and executing a mission.
 
 Regardless of training and experience, all members of the flight crew must be briefed by the PIC before each flight both to reiterate the general responsibilities of each member as well as to cover flight-specific information.
 
 #### Operators
 
-A Part 107-licensed pilot-in-command must be present for all flights, and, if not operating the controls, be able to immediately take over the controls. Per Part 107, non-licensed operators are permitted as long as the PIC is able to take over the controls immediately.
+A Part 107-licensed PIC must be present for all flights, and, if not operating the controls, be able to immediately take over the controls. Per Part 107, non-licensed operators are permitted as long as the PIC is able to take over the controls immediately.
 
 Anyone operating the controls should be trained by the PIC or be able to show they have been trained elsewhere.
 
@@ -158,22 +160,22 @@ Our drone is a DJI Inspire 2. Some basic stats:
 
 The drone is equipped with a Zenmuse X4S camera. The camera can shoot 20 megapixel still images and 4K video at 60 FPS.
 
-The drone is dual-controller enabled. As mentioned in the _who_ section, this enables a photojournalist to operate the camera independently of the pilot-in-command.
+The drone is dual-controller enabled. As mentioned in the _who_ section, this enables a Photojournalist to operate the camera independently of the PIC.
 
-While the operating temperatures and wind resistance are limits, the drone may experience degraded performance before reaching these conditions. It is the Pilot In Command's responsibility to determine when it is safe to fly.
+While the operating temperatures and wind resistance are limits, the drone may experience degraded performance before reaching these conditions. It is the PIC's responsibility to determine when it is safe to fly.
 
 <div style="page-break-after: always;"></div>
 
 ## Where and When
 
-FAA regulations impose a number of restrictions on where, when and how drones may operate. This is a summary. The Pilot In Command is responsible for knowing all regulations and ensuring they are complied with.
+FAA regulations impose a number of restrictions on where, when and how drones may operate. This is a summary. The PIC is responsible for knowing all regulations and ensuring they are complied with.
 
 * Sunrise to sunset only. Civil twilight (30 minutes before sunrise to 30 minutes after sunset) with appropriate illumination.
 * 3 or more statute miles of visibility at your location.
-* Unaided visual-line-of-sight (VLOS) only. The Pilot In Command must be able to see the drone without the use of cameras or binoculars.
+* Unaided visual-line-of-sight (VLOS) only. The PIC must be able to see the drone without the use of cameras or binoculars.
 * No flight over unsheltered people.
 * Maximum altitude is 400 feet above ground level (AGL). Flying near a building or tower allows a higher ceiling.
-* No flying while flying (or riding, sometimes). Flying a drone while the pilot is in an aircraft is prohibited. Flying a drone while the pilot is in a land vehicle or boat is acceptable in "sparsely populated" areas.
+* No flying while flying (or riding, sometimes). Flying a drone while the PIC is in an aircraft is prohibited. Flying a drone while the PIC is in a land vehicle or boat is acceptable in "sparsely populated" areas.
 * No flying near clouds. The drone must be 500 feet below clouds and 2,000 feet away horizontally.
 * Yield the right of way. Drones must yield to all other aircraft and are not allowed to interfere with the operation of another aircraft.
 
@@ -185,7 +187,7 @@ There are other areas of prohibited airspace in our area as well, like the Arch 
 
 ### Temporary Flight Restrictions (TFRs)
 
-The FAA will issue Temporary Flight Restrictions from time to time. There will be a TFR in place over Busch Stadium during Cardinals home games. It is the Pilot In Command's responsibility to be aware of active TFRs.
+The FAA will issue Temporary Flight Restrictions from time to time. There will be a TFR in place over Busch Stadium during Cardinals home games. It is the PIC's responsibility to be aware of active TFRs.
 
 <div style="page-break-after: always;"></div>
 
@@ -230,7 +232,7 @@ Then, consider:
 
 ### Flight Planning
 
-Prior to embarking on any drone operation, the Pilot In Command must gather information about the proposed flight area to ensure safe operations that comply with Federal Aviation Regulations. The PIC may need input from the Journalist to help answer these.
+Prior to embarking on any drone operation, the PIC must gather information about the proposed flight area to ensure safe operations that comply with Federal Aviation Regulations. The PIC may need input from the Journalist to help answer these.
 
 #### Location
 
@@ -405,9 +407,9 @@ The PIC is responsible for all flight operations and is the only person allowed 
 
 The Observer is responsible for monitoring the area to ensure there are no hazards that may endanger the flight or people on the ground. The Observer is the only member of the team who can speak to the PIC during the flight. The Observer will alert the PIC immediately if any aircraft, person or vehicle comes near the operation. The Observer will remain within speaking distance of the PIC.
 
-The Photojournalist is responsible for operating the camera. The Photojournalist will determine what visuals are needed and communicate that to the PIC prior to the flight. During the flight, the PIC may ask for feedback from the Photojournalist, but the Photojournalist should only speak to the pilot if asked.
+The Photojournalist is responsible for operating the camera. The Photojournalist will determine what visuals are needed and communicate that to the PIC prior to the flight. During the flight, the PIC may ask for feedback from the Photojournalist, but the Photojournalist should only speak to the PIC if asked.
 
-The Journalist is responsible for communicating flight goals to the PIC and Photojournalist before flight and verifying results after landing. During flight, the PIC may ask for feedback from the Journalist, but the Journalist should only speak to the pilot if asked.
+The Journalist is responsible for communicating flight goals to the PIC and Photojournalist before flight and verifying results after landing. During flight, the PIC may ask for feedback from the Journalist, but the Journalist should only speak to the PIC if asked.
 
 The Observer, Photojournalist and Journalist can speak freely among each other, but should always be listening for the PIC.
 
